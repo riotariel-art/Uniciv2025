@@ -645,7 +645,7 @@
 		"requiredTech": "Nuclear Fusion",
 		"requiredResource": "Uranium",
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
-	
+	},
 	
 	
 	
