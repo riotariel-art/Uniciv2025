@@ -30,95 +30,11 @@
 
 
 
+    //xsa//start
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[//xsa//start
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[
 //xsa//isNationalWonder
 	{
 		"name": "Circus Maximus",
@@ -909,7 +825,7 @@
 			"Nullifies [Faith] [in all cities]",
 			"[+1 Culture] per every [1] [Faith]",
 			"Cannot be purchased <after founding a Pantheon>",
-			"Can only be built <in [in capital] cities> <hidden from users>"
+			"Can only be built <in [Capital] cities> <hidden from users>"
 			]
 	},
 
@@ -1058,16 +974,31 @@
 	},
 	
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	
 	
 	//xsa001//city specialization
@@ -1207,7 +1138,7 @@
  	  "[0] Movement point cost to embark",
 	  "All newly-trained [All] units [in all cities] receive the [Sons of the Aesir] promotion",
  	  "Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
- 	  "Can only be built <in [in capital] cities> <hidden from users>",
+ 	  "Can only be built <in [Capital] cities>",
  	  "Can spend Gold to annex or puppet a City-State that has been your Ally for [1] turns",
 	  "Cities are razed [10] times as fast",
  	  "City-State territory always counts as friendly territory",
@@ -1234,7 +1165,7 @@
 	  "No defensive terrain penalty",
  	  "No movement cost to pillage",
 	  "Ranged attacks may be performed over obstacles",
- 	  "Remove extra unhappiness from annexed cities",
+ 	  "Removes extra unhappiness from annexed cities",
  	  "Resting point for Influence with City-States is increased by [1000]",
  	  "Roads connect tiles across rivers",
 		"Only available <if [MiniCake] is constructed>",
@@ -1265,7 +1196,7 @@
  	  "[0] Movement point cost to embark",
 	  "All newly-trained [All] units [in all cities] receive the [Sons of the Aesir] promotion",
  	  "Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
- 	  "Can only be built <in [in capital] cities> <hidden from users>",
+ 	  "Can only be built <in [Capital] cities>",
  	  "Can spend Gold to annex or puppet a City-State that has been your Ally for [0] turns",
 	  "Cities are razed [100] times as fast",
  	  "City-State territory always counts as friendly territory",
@@ -1292,7 +1223,7 @@
 	  "No defensive terrain penalty",
  	  "No movement cost to pillage",
 	  "Ranged attacks may be performed over obstacles",
- 	  "Remove extra unhappiness from annexed cities",
+ 	  "Removes extra unhappiness from annexed cities",
  	  "Resting point for Influence with City-States is increased by [1000]",
  	  "Roads connect tiles across rivers",
 	  "Only available <if [MiniCake] is constructed>",
@@ -1336,7 +1267,7 @@
  	  "[0] Movement point cost to embark",
 	  "All newly-trained [All] units [in all cities] receive the [Sons of the Aesir] promotion",
  	  "Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
- 	  "Can only be built <in [in capital] cities> <hidden from users>",
+ 	  "Can only be built <in [Capital] cities>",
  	  "Can spend Gold to annex or puppet a City-State that has been your Ally for [0] turns",
 	  "Cities are razed [100000] times as fast",
  	  "City-State territory always counts as friendly territory",
@@ -1363,7 +1294,7 @@
 	  "No defensive terrain penalty",
  	  "No movement cost to pillage",
 	  "Ranged attacks may be performed over obstacles",
- 	  "Remove extra unhappiness from annexed cities",
+ 	  "Removes extra unhappiness from annexed cities",
  	  "Resting point for Influence with City-States is increased by [100000]",
  	  "Roads connect tiles across rivers",
 		"Only available <if [MiniCake] is constructed>",
@@ -1413,7 +1344,7 @@
 	  "[+100000]% [Culture] [in all cities]",
 	  "[-100000]% Culture cost of adopting new Policies",
 	  "[+100000]% Golden Age length",
- 	  "Can only be built <in [in capital] cities> <hidden from users>",
+ 	  "Can only be built <in [Capital] cities>",
 
 	  "Destroyed when the city is captured",
 	  "Only available <if [MiniCake] is constructed>",
@@ -1427,7 +1358,7 @@
 	"uniques": [
 	  "[+100000]% [Faith] [in all cities]",
 	  "[+100000]% Natural religion spread [in all cities]",
- 	  "Can only be built <in [in capital] cities> <hidden from users>",
+ 	  "Can only be built <in [Capital] cities>",
 	  "Destroyed when the city is captured",
 	  "May choose [10] additional belief(s) of any type when [founding] a religion",
 	  "May choose [10] additional belief(s) of any type when [enhancing] a religion",
@@ -1442,7 +1373,7 @@
 	"uniques": [
 	  "[+100000]% [Food] [in all cities]",
 	  "[+100000]% growth [in all cities]",
- 	  "Can only be built <in [in capital] cities> <hidden from users>",
+ 	  "Can only be built <in [Capital] cities>",
 	  "Destroyed when the city is captured",
 	  "Only available <if [MiniCake] is constructed>",
  	  "Unbuildable <hidden from users>" ]
@@ -1455,7 +1386,7 @@
 	"uniques": [
 	  "[+100000]% [Gold] [in all cities]",
 	  "[-100000]% maintenance costs",
- 	 "Can only be built <in [in capital] cities> <hidden from users>",
+ 	  "Can only be built <in [Capital] cities>",
 	  "Destroyed when the city is captured",
 	  "No Maintenance costs for improvements in [All] tiles",
 	  "Only available <if [MiniCake] is constructed>",
@@ -1468,7 +1399,7 @@
 	"uniques": [
 	  "[+100000]% [Happiness] [in all cities]",
 	  "[-100000]% Unhappiness from [Population] [in all cities]",
- 	 "Can only be built <in [in capital] cities> <hidden from users>",
+ 	  "Can only be built <in [Capital] cities>",
 	  "Destroyed when the city is captured",
 	  "Only available <if [MiniCake] is constructed>",
  	  "Unbuildable <hidden from users>" ]
@@ -1481,7 +1412,7 @@
 	"uniques": [
 	  "[+100000]% [Production] [in all cities]",
 	  "[-100000]% construction time for [All] improvements",
- 	 "Can only be built <in [in capital] cities> <hidden from users>",
+ 	  "Can only be built <in [Capital] cities>",
 	  "Destroyed when the city is captured",
 	  "Only available <if [MiniCake] is constructed>",
  	  "Unbuildable <hidden from users>" ]
@@ -1493,7 +1424,7 @@
 	"isWonder": true,
 	"uniques": [
 	  "[+100000]% [Science] [in all cities]",
- 	 "Can only be built <in [in capital] cities> <hidden from users>",
+ 	  "Can only be built <in [Capital] cities>",
 	  "Destroyed when the city is captured",
 	  "Only available <if [MiniCake] is constructed>",
  	  "Unbuildable <hidden from users>" ]
@@ -1528,7 +1459,7 @@
 	"Limited to [1] per Civilization", 
 	"[-99999]% weight to this choice for AI decisions", 
 	"Destroyed when the city is captured", 
-	"Can only be built [in capital]", 
+    "Can only be built <in [Capital] cities>",
 	"[-1000]% Strength <when not at war>", 
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
 	"[5] Movement", 
@@ -1545,7 +1476,7 @@
 	"Limited to [1] per Civilization", 
 	"[-99999]% weight to this choice for AI decisions", 
 	"Destroyed when the city is captured", 
-	"Can only be built <in [in capital] cities> <hidden from users>",
+    "Can only be built <in [Capital] cities>",
 	"[-1000]% Strength <when not at war>", 
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
 	"[+5] Range" 
@@ -1558,7 +1489,7 @@
 	"Limited to [1] per Civilization", 
 	"[-99999]% weight to this choice for AI decisions", 
 	"Destroyed when the city is captured", 
-	"Can only be built <in [in capital] cities> <hidden from users>",
+    "Can only be built <in [Capital] cities>", 
 	"[-1000]% Strength <when not at war>", 
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
 	"[3] additional attacks per turn" ] }  ,
@@ -1570,7 +1501,7 @@
 	"Limited to [1] per Civilization", 
 	"[-99999]% weight to this choice for AI decisions", 
 	"Destroyed when the city is captured", 
-	"Can only be built <in [in capital] cities> <hidden from users>",
+    "Can only be built <in [Capital] cities>", 
 	"[-1000]% Strength <when not at war>", 
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
 	"When defeating a [All] unit, earn [1000] Gold and recruit it" 
@@ -1583,10 +1514,10 @@
 	"[-99999]% weight to this choice for AI decisions", 
 	"Limited to [1] per Civilization", 
 	"Destroyed when the city is captured", 
-	"Can only be built <in [in capital] cities> <hidden from users>",
+    "Can only be built <in [Capital] cities>",
 	"[-1000]% Strength <when not at war>", 
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
-	"Defense bonus when embarked <for [All] units>", 
+	"May attack when embarked", 
 	"[+1000]% Strength <when defending>" 
 	] } ,
 
@@ -1597,7 +1528,7 @@
 	"Limited to [1] per Civilization", 
 	"[-99999]% weight to this choice for AI decisions", 
 	"Destroyed when the city is captured", 
-	"Can only be built <in [in capital] cities> <hidden from users>",
+    "Can only be built <in [Capital] cities>",
 	"[-1000]% Strength <when not at war>", 
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
 	"[+1000]% Strength <vs [All] units>" 
@@ -1610,12 +1541,12 @@
 	"Limited to [1] per Civilization", 
 	"[-99999]% weight to this choice for AI decisions", 
 	"Destroyed when the city is captured", 
-	"Can only be built <in [in capital] cities> <hidden from users>",
+    "Can only be built <in [Capital] cities>", 
 	"[-1000]% Strength <when not at war>", 
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
-	"Units fight as though they were at full strength even when damaged",	
+	"Damage is ignored when determining unit Strength<for All units>",	
 	"Military Units gifted from City-States start with [1000] XP", 
-	"New [All] units start with [1000] Experience [in all cities]" 
+	"New [All] units start with [1000] XP [in all cities]" 
 	] } ,
 
 { "name": "Hack Land City-States Hack", 
@@ -1625,10 +1556,10 @@
 	"Limited to [1] per Civilization", 
 	"[-99999]% weight to this choice for AI decisions", 
 	"Destroyed when the city is captured", 
-	"Can only be built <in [in capital] cities> <hidden from users>",
+    "Can only be built <in [Capital] cities>", 
 	"[-1000]% Strength <when not at war>", 
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
-	"Can spend Gold to annex or puppet a City-State that has been your ally for [1] turns.", 
+	"Can spend Gold to annex or puppet a City-State that has been your Ally for [1] turns.", 
 	"City-State territory always counts as friendly territory", 
 	"[1000]% resources gifted by City-States", 
 	"[-1000]% City-State Influence degradation", 
@@ -1644,7 +1575,7 @@
 	"Limited to [1] per Civilization", 
 	"[-99999]% weight to this choice for AI decisions", 
 	"Destroyed when the city is captured", 
-	"Can only be built <in [in capital] cities> <hidden from users>",
+    "Can only be built <in [Capital] cities>", 
 	"[-1000]% Strength <when not at war>", 
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
 	"[+1 Gold] per [1] population [in all cities]", 
@@ -1667,7 +1598,7 @@
 	"Limited to [1] per Civilization", 
 	"[-99999]% weight to this choice for AI decisions", 
 	"Destroyed when the city is captured", 
-	"Can only be built <in [in capital] cities> <hidden from users>",
+    "Can only be built <in [Capital] cities>",
 	"[-1000]% Strength <when not at war>", 
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
 	"[+1 Culture] per [1] population [in all cities]", 
@@ -1682,7 +1613,7 @@
 	"Limited to [1] per Civilization", 
 	"[-99999]% weight to this choice for AI decisions", 
 	"Destroyed when the city is captured", 
-	"Can only be built <in [in capital] cities> <hidden from users>",
+    "Can only be built <in [Capital] cities>", 
 	"[-1000]% Strength <when not at war>", 
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
 	"[+1 Faith] per [1] population [in all cities]", 
@@ -1699,7 +1630,7 @@
 	"Limited to [1] per Civilization", 
 	"[-99999]% weight to this choice for AI decisions", 
 	"Destroyed when the city is captured", 
-	"Can only be built <in [in capital] cities> <hidden from users>",
+    "Can only be built <in [Capital] cities>",
 	"[-1000]% Strength <when not at war>", 
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
 	"[+1 Happiness] per [1] population [in all cities]", 
@@ -1715,7 +1646,7 @@
 	"Limited to [1] per Civilization", 
 	"[-99999]% weight to this choice for AI decisions", 
 	"Destroyed when the city is captured", 
-	"Can only be built <in [in capital] cities> <hidden from users>",
+    "Can only be built <in [Capital] cities>",
 	"[-1000]% Strength <when not at war>",
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
 	"[+1 Food] per [1] population [in all cities]", 
@@ -1730,7 +1661,7 @@
 	"Limited to [1] per Civilization", 
 	"[-99999]% weight to this choice for AI decisions", 
 	"Destroyed when the city is captured", 
-	"Can only be built <in [in capital] cities> <hidden from users>",
+    "Can only be built <in [Capital] cities>",
 	"[-1000]% Strength <when not at war>", 
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
 	"[+1 Science] per [1] population [in all cities]", 
@@ -1743,20 +1674,20 @@
 	"Limited to [1] per Civilization", 
 	"[-99999]% weight to this choice for AI decisions", 
 	"Destroyed when the city is captured", 
-	"Can only be built <in [in capital] cities> <hidden from users>",
+ 	"Can only be built <in [Capital] cities>",
 	 "[-1000]% Strength <when not at war>", 
 	 "[+1000]% Strength <when not at war> <vs [Barbarians]>", 
 	 "[+1 Production] per [1] population [in all cities]", 
 	 "[+1000000]% [Production] [in all cities]", 
 	 "Quantity of strategic resources produced by the empire +[200000]%", 
-	 "[-1000]% construction time for All improvements" 
+	 "[-1000]% tile improvement construction time" 
 	 ] },
 
 { "name": "Hax For Everyone!", 
 "isNationalWonder": true, "cost": 1, 
 "uniques": [ 
 	"Destroyed when the city is captured", 
-	"Can only be built <in [in capital] cities> <hidden from users>",
+	"Can only be built [in capital]", 
 	"\"Borrows\" city names from other civilizations in the game", 
 	"[+1 Gold, +1 Production, +1 Science, +1 Food, +1 Culture, +1 Faith, +1 Happiness] per [1] population [in all cities]", 
 	"Enables conversion of city production to [Gold]", 
@@ -1833,7 +1764,7 @@
 		"uniques": [
 			"Cost increases by [10] per owned city",
 			"Destroyed when the city is captured",
-			"Only available <when religion is enabled>"
+			"Hidden when religion is disabled"
 			]
 	},
 	{
@@ -1872,7 +1803,7 @@
 		"uniques": [
 			"Cost increases by [10] per owned city",
 			"Destroyed when the city is captured",
-			"New [Military] units start with [9999] Experience [in this city]"		]
+			"New [Military] units start with [9999] XP [in this city]"		]
 	},
 	{
 		"name": "Increased city defense",
@@ -2177,13 +2108,13 @@
 	},
 	{
 		"name": "Activate Challenges",
-		"cost": 0,
+		"cost": -1,
 		"uniques": ["Never destroyed when the city is captured","Unsellable","Only available <before discovering [AI Treats]>",
 				"Only available <before adopting [Challenges]>",
 				"Only available <before adopting [Tradition]>",
 				"Only available <before adopting [Liberty]>",
 				"Only available <before adopting [Honor]>",
-				"Only available <before turn number [5]>",
+				"Only available <before [5] turns>",
 				"Only available <in cities with a [Palace]>",
 		  		"Free Social Policy"]
 	},
@@ -2420,8 +2351,7 @@
 			"Discover [Scientific Theory]",
 			"Discover [Military Science]",
 			"Discover [Fertilizer]",
-			"Discover [Rifling]",
-            "Moves to new capital when capital changes"]
+			"Discover [Rifling]","Moves to new capital when capital changes"]
 	},
 	{
 		"name": "Machine Shop",
@@ -3488,3 +3418,5 @@
 
 
 ]//xsa//end
+
+
