@@ -1,4 +1,4 @@
-Removes extra unhappiness from annexed cities//xsa001//city specialization
+//xsa001//city specialization
 //xsa002//cheaty cheat of Asgarheim
 //xsa003//hacky cheat
 
@@ -30,95 +30,11 @@ Removes extra unhappiness from annexed cities//xsa001//city specialization
 
 
 
+    //xsa//start
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//xsa//start
 [
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 //xsa//isNationalWonder
 	{
 		"name": "Circus Maximus",
@@ -3499,7 +3415,6 @@ Removes extra unhappiness from annexed cities//xsa001//city specialization
 			"Limited to [1] per Civilization <hidden from users>"]
 	}
 		
-
 
 
 ]//xsa//end
