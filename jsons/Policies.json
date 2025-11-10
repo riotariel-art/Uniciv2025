@@ -1,4 +1,4 @@
-//xsa//custom policy
+//xss//custom policy
 
 //xsa//need fix
 
@@ -640,9 +640,7 @@
             }
         ]
     },
-    
-/*
-    {
+/*    {
         "name": "Freedom",
         "era": "Industrial era",
         "priorities": {
@@ -1033,7 +1031,7 @@
                 "name": "Total War",
                 "uniques": [
                     "[+25]% Production when constructing [Military] units [in all cities]",
-                    "New [Military] units start with [15] Experience [in all cities]"
+                    "New [Military] units start with [15] XP [in all cities]"
                 ],
                 "requires": ["Mobilization", "Fascism"],
                 "row": 3,
@@ -1186,7 +1184,7 @@
 
 
 //xsa//cultural policy
-
+[
     {
         "name": "Monoculturalism",
         "era": "Industrial era",
