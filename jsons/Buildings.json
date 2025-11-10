@@ -1,4 +1,571 @@
-[
+[ 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+//xsa//minicake switches
+	{
+		"name": "MiniCake Main",
+		"cityStrength": 500,
+		"cityHealth": 5000,
+		"cost": 1,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"isWonder": true,
+//		"specialistSlots": {"Townie": 10},
+		"uniques": [
+		  
+//			"Unbuildable <for [AI player]>",
+			"Limited to [1] per Civilization",
+//			"Unbuildable <for [AI player] Civilizations>",
+			"Only available <for [Human player] Civilizations><hidden from users>",
+//			"Unavailable <in cities with a [Glory of the Aesir]> <hidden from users>",
+//			"Unavailable <in cities with a [Twilight of the Gods]> <hidden from users>",
+//			"Unavailable <in cities with a [True Asgarheim]> <hidden from users>",
+			"Automatically built in all cities where it is buildable",
+			
+			"[+100] Unit Supply",
+			"[+1000]% XP gained from combat <for [Military] units>",
+			"[+100]% Yield from every [Terrain] <for [Human player]>",
+			"Quantity of strategic resources produced by the empire [+100]%",
+			"[+100] population [in this city]",
+			"[+100]% growth [in this city]",
+			"Provides 10 copy of each improved luxury resource near this City",
+			
+			"New [Military] units start with [1000] XP [in this city]", 
+			
+			"[1] free [Settler] units appear", 
+			"[1] free [Worker] units appear",
+			"Free [Worker] appears <for [Human player] Civilizations>",
+			
+			"Destroyed when the city is captured"
+			],
+	},
+    
+
+	
+	
+
+	 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+	
+	
+	
+	
+	
+	{
+		"name": "MiniCake Wonder",
+		"requiredBuilding": "MiniCake Main",
+		"cost": 1,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"uniques": [
+				"Destroyed when the city is captured"
+			],
+	},	
+	{
+		"name": "MiniCake True",
+		"requiredBuilding": "MiniCake Main",
+		"cost": 1,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"uniques": [
+				"Destroyed when the city is captured"
+			],
+	},
+	{
+		"name": "MiniCake Capital",
+		"requiredBuilding": "MiniCake Main",
+		"cost": 1,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"uniques": [
+				"Destroyed when the city is captured"
+			],
+	},
+	
+	{
+		"name": "MiniCake Hack",
+		"requiredBuilding": "MiniCake Main",
+		"cost": 1,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"uniques": [
+				"Destroyed when the city is captured"
+			],
+	},
+	
+	{
+		"name": "MiniCake cSandbox",
+		"requiredBuilding": "MiniCake Main",
+		"cost": 1,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"uniques": [
+				"Destroyed when the city is captured"
+			],
+	},
+	
+	{
+		"name": "MiniCake Sandboxer",
+		"requiredBuilding": "MiniCake Main",
+		"cost": 1,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"uniques": [
+				"Destroyed when the city is captured"
+			],
+	},
+	
+	{
+		"name": "MiniCake Godmode",
+		"requiredBuilding": "MiniCake Main",
+		"cost": 1,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"uniques": [
+				"Destroyed when the city is captured"
+			],
+	},
+	
+	{
+		"name": "MiniCake UCheat",
+		"requiredBuilding": "MiniCake Main",
+		"cost": 1,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"uniques": [
+				"Destroyed when the city is captured"
+			],
+	},
+    
+    
+    
+    
+    
+     
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    	
+	
+	
+	//xsa001//city specialization
+	{
+		"name": "Manufacturing Capital",
+		"requiredBuilding": "MiniCake Capital",
+		"cost": 400,
+		"production": 100,
+		"isNationalWonder": true,
+		"percentStatBonus": {"production": 100},
+		"uniques": [
+			"Cost increases by [10] per owned city"
+			"Destroyed when the city is captured"
+			],
+		"requiredTech": "Construction"
+	},
+	{
+		"name": "Economic Capital",
+		"requiredBuilding": "MiniCake Capital",
+		"cost": 400,
+		"gold": 100,
+		"isNationalWonder": true,
+		"percentStatBonus": {"gold": 100},
+		"uniques": [
+			"Cost increases by [10] per owned city"
+			"Destroyed when the city is captured"
+			],
+		"requiredTech": "Currency"
+	},
+	{
+		"name": "Cultural Capital",
+		"requiredBuilding": "MiniCake Capital",
+		"cost": 400,
+		"culture": 100,
+		"isNationalWonder": true,
+		"percentStatBonus": {"culture": 100},
+		"uniques": [
+			"Cost increases by [10] per owned city"
+			"Destroyed when the city is captured"
+			],
+		"requiredTech": "Philosophy"
+	},
+	{
+		"name": "Religious Capital",
+		"requiredBuilding": "MiniCake Capital",
+		"cost": 400,
+		"faith": 100,
+		"isNationalWonder": true,
+		"percentStatBonus": {"faith": 100},
+		"uniques": [
+			"Cost increases by [10] per owned city"
+			"Destroyed when the city is captured"
+			],
+		"requiredTech": "Calendar"
+	},
+	{
+		"name": "Scientific Capital",
+		"requiredBuilding": "MiniCake Capital",
+		"cost": 300,
+		"science": 100,
+		"isNationalWonder": true,
+		"percentStatBonus": {"science": 100},
+		"uniques": [
+			"Cost increases by [10] per owned city"
+			"Destroyed when the city is captured"
+			],
+		"requiredTech": "Education"
+	},
+	{
+		"name": "Agricultural Capital",
+		"requiredBuilding": "MiniCake Capital",
+		"cost": 400,
+		"food": 100,
+		"isNationalWonder": true,
+		"percentStatBonus": {"food": 100},
+		"uniques": [
+			"Cost increases by [10] per owned city"
+			"Destroyed when the city is captured"
+			],
+		"requiredTech": "Agriculture"
+	},
+	
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+     
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      {
+	"name": "1000 Resources",
+	"requiredBuilding": "MiniCake True",
+	"uniques": [
+	  "Provides [1000] [Aluminum]",
+	  "Provides [1000] [Citrus]",
+	  "Provides [1000] [Coal]",
+	  "Provides [1000] [Copper]",
+	  "Provides [1000] [Cotton]",
+	  "Provides [1000] [Crab]",
+	  "Provides [1000] [Dyes]",
+	  "Provides [1000] [Furs]",
+	  "Provides [1000] [Gems]",
+	  "Provides [1000] [Gold Ore]",
+	  "Provides [1000] [Horses]",
+	  "Provides [1000] [Incense]",
+	  "Provides [1000] [Iron]",
+	  "Provides [1000] [Jewelry]",
+	  "Provides [1000] [Marble]",
+	  "Provides [1000] [Oil]",
+	  "Provides [1000] [Pearls]",
+	  "Provides [1000] [Porcelain]",
+	  "Provides [1000] [Salt]",
+	  "Provides [1000] [Silk]",
+	  "Provides [1000] [Silver]",
+	  "Provides [1000] [Spices]",
+	  "Provides [1000] [Sugar]",
+	  "Provides [1000] [Truffles]",
+	  "Provides [1000] [Uranium]",
+	  "Provides [1000] [Whales]",
+	  "Provides [1000] [Wine]",			  
+	  "Destroyed when the city is captured",
+	  "Only available <if [MiniCake] is constructed>",
+ 	 "Unbuildable <hidden from users>" ]
+  },
+  {
+	"name": "True Culture",
+	"requiredBuilding": "MiniCake True",
+	"isWonder": true,
+	"uniques": [
+	  "[+100000]% [Culture] [in all cities]",
+	  "[-100000]% Culture cost of adopting new Policies",
+	  "[+100000]% Golden Age length",
+ 	  "Can only be built <in [Capital] cities>",
+
+	  "Destroyed when the city is captured",
+	  "Only available <if [MiniCake] is constructed>",
+ 	  "Unbuildable <hidden from users>" ]
+  },
+  {
+	"name": "True Faith",
+	"requiredBuilding": "MiniCake True",
+	"faith": 10000,
+	"isWonder": true,
+	"uniques": [
+	  "[+100000]% [Faith] [in all cities]",
+	  "[+100000]% Natural religion spread [in all cities]",
+ 	  "Can only be built <in [Capital] cities>",
+	  "Destroyed when the city is captured",
+	  "May choose [10] additional belief(s) of any type when [founding] a religion",
+	  "May choose [10] additional belief(s) of any type when [enhancing] a religion",
+	  "Only available <if [MiniCake] is constructed>",
+ 	  "Unbuildable <hidden from users>" ]
+  },
+  {
+	"name": "True Food",
+	"requiredBuilding": "MiniCake True",
+	"food": 10000,
+	"isWonder": true,
+	"uniques": [
+	  "[+100000]% [Food] [in all cities]",
+	  "[+100000]% growth [in all cities]",
+ 	  "Can only be built <in [Capital] cities>",
+	  "Destroyed when the city is captured",
+	  "Only available <if [MiniCake] is constructed>",
+ 	  "Unbuildable <hidden from users>" ]
+  },
+  {
+	"name": "True Gold",
+	"requiredBuilding": "MiniCake True",
+	"gold": 10000,
+	"isWonder": true,
+	"uniques": [
+	  "[+100000]% [Gold] [in all cities]",
+	  "[-100000]% maintenance costs",
+ 	  "Can only be built <in [Capital] cities>",
+	  "Destroyed when the city is captured",
+	  "No Maintenance costs for improvements in [All] tiles",
+	  "Only available <if [MiniCake] is constructed>",
+ 	  "Unbuildable <hidden from users>" ]
+  },
+  {
+	"name": "True Happiness",
+	"requiredBuilding": "MiniCake True",
+	"isWonder": true,
+	"uniques": [
+	  "[+100000]% [Happiness] [in all cities]",
+	  "[-100000]% Unhappiness from [Population] [in all cities]",
+ 	  "Can only be built <in [Capital] cities>",
+	  "Destroyed when the city is captured",
+	  "Only available <if [MiniCake] is constructed>",
+ 	  "Unbuildable <hidden from users>" ]
+  },
+  {
+	"name": "True Production",
+	"requiredBuilding": "MiniCake True",
+	"production": 10000,
+	"isWonder": true,
+	"uniques": [
+	  "[+100000]% [Production] [in all cities]",
+	  "[-100000]% construction time for [All] improvements",
+ 	  "Can only be built <in [Capital] cities>",
+	  "Destroyed when the city is captured",
+	  "Only available <if [MiniCake] is constructed>",
+ 	  "Unbuildable <hidden from users>" ]
+  },
+  {
+	"name": "True Science",
+	"requiredBuilding": "MiniCake True",
+	"science": 100,
+	"isWonder": true,
+	"uniques": [
+	  "[+100000]% [Science] [in all cities]",
+ 	  "Can only be built <in [Capital] cities>",
+	  "Destroyed when the city is captured",
+	  "Only available <if [MiniCake] is constructed>",
+ 	  "Unbuildable <hidden from users>" ]
+  },
+    
+    
+     
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+     
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 	{
 		"name": "Holodeck",
 		"replaces": "Circus Maximus",
