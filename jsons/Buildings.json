@@ -944,7 +944,7 @@
 			
 			"[+100] Unit Supply",
 			"[+1000]% XP gained from combat <for [Military] units>",
-			"[+100]% Yield from every [Terrain] <for [Human player]>",
+			"[+100]% Yield from every [Terrain] <for [Human player] Civilizations>",
 			"Quantity of strategic resources produced by the empire [+100]%",
 			"[+100] population [in this city]",
 			"[+100]% growth [in this city]",
@@ -2177,7 +2177,7 @@
 	},
 	{
 		"name": "Activate Challenges",
-		"cost": -1,
+		"cost": 0,
 		"uniques": ["Never destroyed when the city is captured","Unsellable","Only available <before discovering [AI Treats]>",
 				"Only available <before adopting [Challenges]>",
 				"Only available <before adopting [Tradition]>",
