@@ -1102,7 +1102,7 @@
 		"maintenance": 0,
 		"requiredBuilding": "Divine Gate",
 		"uniques": [
-			"Hidden until [1] social policy branches have been completed",
+			"Unavailable <when number of Completed Policy branches is less than 1>",
 			"Only available <in cities with a [Divine Gate]>",
 			"[+100]% Great Person generation [in all cities]",
 			"Moves to new capital when capital changes"]
