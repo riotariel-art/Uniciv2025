@@ -1,4 +1,4 @@
-[ 
+[ //xsa//start
     
     
     
@@ -377,7 +377,7 @@
     
     
     
-      {
+{
 	"name": "1000 Resources",
 	"requiredBuilding": "MiniCake True",
 	"uniques": [
@@ -565,6 +565,513 @@
     
     
     
+//xsa//unciv godmode
+  	{
+		"name": "Divine Gate",
+		"requiredBuilding": "MiniCake Godmode",
+		"cost": 999999,
+		"isNationalWonder": true,
+		"hurryCostModifier": 1000,
+		"maintenance": 0,
+		"uniques": ["Moves to new capital when capital changes"],
+		"quote": "You have made your choice. God Mode (cheats) Activated!"
+	},
+	{
+		"name": "Divine Mint",
+		"requiredBuilding": "MiniCake Godmode",
+		"cost": 3,
+		"gold": 1999,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"requiredBuilding": "Divine Gate",
+		"uniques": ["Only available <in cities with a [Divine Gate]>","Moves to new capital when capital changes"]
+	},
+	{
+		"name": "Planning HQ",
+		"requiredBuilding": "MiniCake Godmode",
+		"cost": 3,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"requiredBuilding": "Divine Gate",
+		"uniques": [
+			"Only available <in cities with a [Divine Gate]>",
+			"[-50]% Gold cost of acquiring tiles [in all cities]",
+			"[Gold] cost of purchasing items in cities [-50]%",
+			"[Gold] cost of purchasing [All] buildings [-50]%",
+			"[Gold] cost of purchasing [All] units [-50]%",
+			"[-50]% Gold cost of upgrading",
+			"Moves to new capital when capital changes"]
+	},
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+//xsa//unciv godmode	
+	{
+		"name": "Tome Museum",
+		"requiredBuilding": "MiniCake Godmode",
+		"cost": 5,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"requiredBuilding": "Divine Gate",
+		"uniques": [
+			"Only available <in cities with a [Divine Gate]>",
+			"Discover [Pottery]",
+			"Discover [Animal Husbandry]",
+			"Discover [Archery]",
+			"Discover [Mining]",
+			"Discover [Sailing]",
+			"Discover [Calendar]",
+			"Discover [Writing]",
+			"Discover [Trapping]",
+			"Discover [The Wheel]",
+			"Discover [Masonry]",
+			"Discover [Bronze Working]",
+			"Moves to new capital when capital changes"]
+	},
+	{
+		"name": "Dead Sea Scrolls",
+		"requiredBuilding": "MiniCake Godmode",
+		"cost": 10,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"requiredBuilding": "Divine Gate",
+		"requiredBuilding": "Tome Museum",
+		"uniques": [
+			"Only available <if [Civ V - Vanilla] is enabled>",
+			"Only available <in cities with a [Divine Gate]>",
+			"Discover [Optics]",
+			"Discover [Philosophy]",
+			"Discover [Horseback Riding]",
+			"Discover [Mathematics]",
+			"Discover [Construction]",
+			"Discover [Iron Working]",
+			"Moves to new capital when capital changes"]
+	},
+	{
+		"name": "Magister Shop",
+		"requiredBuilding": "MiniCake Godmode",
+		"cost": 10,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"requiredBuilding": "Divine Gate",
+		"requiredBuilding": "Dead Sea Scrolls",
+		"uniques": [
+			"Only available <if [Civ V - Vanilla] is enabled>",
+			"Only available <in cities with a [Divine Gate]>",
+			"Discover [Theology]",
+			"Discover [Civil Service]",
+			"Discover [Currency]",
+			"Discover [Engineering]",
+			"Discover [Metal Casting]",
+			"Discover [Compass]",
+			"Discover [Education]",
+			"Discover [Chivalry]",
+			"Discover [Machinery]",
+			"Discover [Physics]",
+			"Discover [Steel]",
+			"Moves to new capital when capital changes"]
+	},
+	{
+		"name": "Gutenberg Co",
+		"requiredBuilding": "MiniCake Godmode",
+		"cost": 10,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"requiredBuilding": "Divine Gate",
+		"requiredBuilding": "Magister Shop",
+		"uniques": [
+			"Only available <if [Civ V - Vanilla] is enabled>",
+			"Only available <in cities with a [Divine Gate]>",
+			"Discover [Astronomy]",
+			"Discover [Acoustics]",
+			"Discover [Banking]",
+			"Discover [Printing Press]",
+			"Discover [Gunpowder]",
+			"Discover [Navigation]",
+			"Discover [Economics]",
+			"Discover [Chemistry]",
+			"Discover [Metallurgy]",
+			"Discover [Archaeology]",
+			"Discover [Scientific Theory]",
+			"Discover [Military Science]",
+			"Discover [Fertilizer]",
+			"Discover [Rifling]","Moves to new capital when capital changes"]
+	},
+	{
+		"name": "Machine Shop",
+		"requiredBuilding": "MiniCake Godmode",
+		"cost": 10,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"requiredBuilding": "Divine Gate",
+		"requiredBuilding": "Gutenberg Co",
+		"uniques": [
+			"Only available <if [Civ V - Vanilla] is enabled>",
+			"Only available <in cities with a [Divine Gate]>",
+			"Discover [Biology]",
+			"Discover [Steam Power]",
+			"Discover [Dynamite]",
+			"Discover [Electricity]",
+			"Discover [Replaceable Parts]",
+			"Discover [Railroads]",
+			"Discover [Refrigeration]",
+			"Discover [Telegraph]",
+			"Discover [Radio]",
+			"Discover [Flight]",
+			"Discover [Combustion]",
+			"Moves to new capital when capital changes"]
+	},
+	{
+		"name": "CERN Institute",
+		"requiredBuilding": "MiniCake Godmode",
+		"cost": 10,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"requiredBuilding": "Divine Gate",
+		"requiredBuilding": "Machine Shop",
+		"uniques": [
+			"Only available <if [Civ V - Vanilla] is enabled>",
+			"Only available <in cities with a [Divine Gate]>",
+			"Discover [Pharmaceuticals]",
+			"Discover [Plastics]",
+			"Discover [Electronics]",
+			"Discover [Mass Media]",
+			"Discover [Radar]",
+			"Discover [Atomic Theory]",
+			"Discover [Ecology]",
+			"Discover [Computers]",
+			"Discover [Rocketry]",
+			"Discover [Lasers]",
+			"Discover [Nuclear Fission]",
+			"Discover [Globalization]",
+			"Discover [Robotics]",
+			"Discover [Satellites]",
+			"Discover [Stealth]",
+			"Discover [Advanced Ballistics]",
+			"Moves to new capital when capital changes"]
+	},
+	{
+		"name": "Spacedock",
+		"requiredBuilding": "MiniCake Godmode",
+		"cost": 10,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"requiredBuilding": "Divine Gate",
+		"requiredBuilding": "CERN Institute",
+		"uniques": [
+			"Only available <if [Civ V - Vanilla] is enabled>",
+			"Only available <in cities with a [Divine Gate]>",
+			"Discover [Particle Physics]",
+			"Discover [Nuclear Fusion]",
+			"Discover [Nanotechnology]",
+			"Moves to new capital when capital changes"]
+	},
+	{
+		"name": "Hephaestus Shop",
+		"requiredBuilding": "MiniCake Godmode",
+		"cost": 10,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"requiredBuilding": "Divine Gate",
+		"requiredBuilding": "Tome Museum",
+		"uniques": [
+			"Only available <if [Civ V - Gods & Kings] is enabled>",
+			"Only available <in cities with a [Divine Gate]>",
+			"Discover [Optics]",
+			"Discover [Horseback Riding]",
+			"Discover [Mathematics]",
+			"Discover [Construction]",
+			"Discover [Philosophy]",
+			"Discover [Drama and Poetry]",
+			"Discover [Currency]",
+			"Discover [Engineering]",
+			"Discover [Iron Working]",
+			"Moves to new capital when capital changes"]
+	},
+	{
+		"name": "Camelot Labs",
+		"requiredBuilding": "MiniCake Godmode",
+		"cost": 10,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"requiredBuilding": "Divine Gate",
+		"requiredBuilding": "Hephaestus Shop",
+		"uniques": [
+			"Only available <if [Civ V - Gods & Kings] is enabled>",
+			"Only available <in cities with a [Divine Gate]>",
+			"Discover [Theology]",
+			"Discover [Civil Service]",
+			"Discover [Guilds]",
+			"Discover [Metal Casting]",
+			"Discover [Compass]",
+			"Discover [Education]",
+			"Discover [Chivalry]",
+			"Discover [Machinery]",
+			"Discover [Physics]",
+			"Discover [Steel]",
+			"Moves to new capital when capital changes"]
+	},
+	{
+		"name": "Gutenberg Corp",
+		"requiredBuilding": "MiniCake Godmode",
+		"cost": 10,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"requiredBuilding": "Divine Gate",
+		"requiredBuilding": "Camelot Labs",
+		"uniques": [
+			"Only available <if [Civ V - Gods & Kings] is enabled>",
+			"Only available <in cities with a [Divine Gate]>",
+			"Discover [Astronomy]",
+			"Discover [Acoustics]",
+			"Discover [Banking]",
+			"Discover [Printing Press]",
+			"Discover [Gunpowder]",
+			"Discover [Navigation]",
+			"Discover [Architecture]",
+			"Discover [Economics]",
+			"Discover [Metallurgy]",
+			"Discover [Chemistry]",
+			"Moves to new capital when capital changes"]
+	},
+	{
+		"name": "Tesla Foundation",
+		"requiredBuilding": "MiniCake Godmode",
+		"cost": 10,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"requiredBuilding": "Divine Gate",
+		"requiredBuilding": "Gutenberg Corp",
+		"uniques": [
+			"Only available <if [Civ V - Gods & Kings] is enabled>",
+			"Only available <in cities with a [Divine Gate]>",
+			"Discover [Archaeology]",
+			"Discover [Scientific Theory]",
+			"Discover [Industrialization]",
+			"Discover [Rifling]",
+			"Discover [Military Science]",
+			"Discover [Fertilizer]",
+			"Discover [Biology]",
+			"Discover [Electricity]",
+			"Discover [Steam Power]",
+			"Discover [Dynamite]","
+			Moves to new capital when capital changes"]
+	},
+	{
+		"name": "War Machine",
+		"requiredBuilding": "MiniCake Godmode",
+		"cost": 10,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"requiredBuilding": "Divine Gate",
+		"requiredBuilding": "Tesla Foundation",
+		"uniques": [
+			"Only available <if [Civ V - Gods & Kings] is enabled>",
+			"Only available <in cities with a [Divine Gate]>",
+			"Discover [Refrigeration]",
+			"Discover [Radio]",
+			"Discover [Replaceable Parts]",
+			"Discover [Flight]",
+			"Discover [Railroads]","Discover [Plastics]",
+			"Discover [Electronics]",
+			"Discover [Ballistics]",
+			"Discover [Combustion]",
+			"Moves to new capital when capital changes"]
+	},
+	{
+		"name": "Relativity Center",
+		"requiredBuilding": "MiniCake Godmode",
+		"cost": 10,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"requiredBuilding": "Divine Gate",
+		"requiredBuilding": "War Machine",
+		"uniques": [
+			"Only available <if [Civ V - Gods & Kings] is enabled>",
+			"Only available <in cities with a [Divine Gate]>",
+			"Discover [Pharmaceuticals]",
+			"Discover [Atomic Theory]",
+			"Discover [Radar]",
+			"Discover [Combined Arms]",
+			"Discover [Ecology]",
+			"Discover [Nuclear Fission]",
+			"Discover [Rocketry]",
+			"Discover [Computers]",
+			"Moves to new capital when capital changes"]
+	},
+	{
+		"name": "Hollywood Studios",
+		"requiredBuilding": "MiniCake Godmode",
+		"cost": 10,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"requiredBuilding": "Divine Gate",
+		"requiredBuilding": "Relativity Center",
+		"uniques": [
+			"Only available <if [Civ V - Gods & Kings] is enabled>",
+			"Only available <in cities with a [Divine Gate]>",
+			"Discover [Telecommunications]",
+			"Discover [Mobile Tactics]",
+			"Discover [Advanced Ballistics]",
+			"Discover [Satellites]",
+			"Discover [Robotics]",
+			"Discover [Lasers]",
+			"Discover [Globalization]",
+			"Discover [Particle Physics]",
+			"Discover [Nuclear Fusion]",
+			"Discover [Nanotechnology]",
+			"Discover [Stealth]",
+			"Moves to new capital when capital changes"]
+	},
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+//xsa//unciv godmode	
+	{
+		"name": "Cybernetics Lab",
+		"requiredBuilding": "MiniCake Godmode",
+		"cost": 5,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"requiredBuilding": "Divine Gate",
+		"uniques": [
+			"Only available <in cities with a [Divine Gate]>",
+			"[+2] Movement <for [All] units>",
+			"[+50]% Strength <for [All] units>",
+			"[+50]% to Flank Attack bonuses",
+			"[+50]% XP gained from combat",
+			"Moves to new capital when capital changes"]
+	},
+	{
+		"name": "Corporate HQ",
+		"requiredBuilding": "MiniCake Godmode",
+		"cost": 5,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"requiredBuilding": "Divine Gate",
+		"uniques": [
+			"Only available <in cities with a [Divine Gate]>",
+			"[50]% [Production] [in all cities]",
+			"[50]% [Food] [in all cities]",
+			"[50]% [Happiness] [in all cities]",
+			"[50]% [Science] [in all cities]",
+			"[50]% [Culture] [in all cities]",
+			"Quantity of strategic resources produced by the empire +[50]%",
+			"Moves to new capital when capital changes"]
+	},
+	{
+		"name": "Defense Tower",
+		"requiredBuilding": "MiniCake Godmode",
+		"cost": 5,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"requiredBuilding": "Divine Gate",
+		"uniques": [
+			"Only available <in cities with a [Divine Gate]>",
+			"[+100]% City Strength from defensive buildings",
+			"[+100]% Strength for cities",
+			"Destroyed when the city is captured"]
+	},
+	{
+		"name": "Agency HQ",
+		"requiredBuilding": "MiniCake Godmode",
+		"cost": 5,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"requiredBuilding": "Divine Gate",
+		"uniques": [
+			"Hidden until [1] social policy branches have been completed",
+			"Only available <in cities with a [Divine Gate]>",
+			"[+100]% Great Person generation [in all cities]",
+			"Moves to new capital when capital changes"]
+	}
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
     
 	{
 		"name": "Holodeck",
