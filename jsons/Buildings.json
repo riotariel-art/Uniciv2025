@@ -1,4 +1,4 @@
-//xsa001//city specialization
+Removes extra unhappiness from annexed cities//xsa001//city specialization
 //xsa002//cheaty cheat of Asgarheim
 //xsa003//hacky cheat
 
@@ -1249,7 +1249,7 @@
 	  "No defensive terrain penalty",
  	  "No movement cost to pillage",
 	  "Ranged attacks may be performed over obstacles",
- 	  "Remove extra unhappiness from annexed cities",
+ 	  "Removes extra unhappiness from annexed cities",
  	  "Resting point for Influence with City-States is increased by [1000]",
  	  "Roads connect tiles across rivers",
 		"Only available <if [MiniCake] is constructed>",
@@ -1307,7 +1307,7 @@
 	  "No defensive terrain penalty",
  	  "No movement cost to pillage",
 	  "Ranged attacks may be performed over obstacles",
- 	  "Remove extra unhappiness from annexed cities",
+ 	  "Removes extra unhappiness from annexed cities",
  	  "Resting point for Influence with City-States is increased by [1000]",
  	  "Roads connect tiles across rivers",
 	  "Only available <if [MiniCake] is constructed>",
@@ -1378,7 +1378,7 @@
 	  "No defensive terrain penalty",
  	  "No movement cost to pillage",
 	  "Ranged attacks may be performed over obstacles",
- 	  "Remove extra unhappiness from annexed cities",
+ 	  "Removes extra unhappiness from annexed cities",
  	  "Resting point for Influence with City-States is increased by [100000]",
  	  "Roads connect tiles across rivers",
 		"Only available <if [MiniCake] is constructed>",
@@ -1601,7 +1601,7 @@
     "Can only be built <in [Capital] cities>",
 	"[-1000]% Strength <when not at war>", 
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
-	"Defense bonus when embarked <for [All] units>", 
+	"May attack when embarked", 
 	"[+1000]% Strength <when defending>" 
 	] } ,
 
@@ -1628,9 +1628,9 @@
     "Can only be built <in [Capital] cities>", 
 	"[-1000]% Strength <when not at war>", 
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
-	"Units fight as though they were at full strength even when damaged",	
+	"Damage is ignored when determining unit Strength<for All units>",	
 	"Military Units gifted from City-States start with [1000] XP", 
-	"New [All] units start with [1000] Experience [in all cities]" 
+	"New [All] units start with [1000] XP [in all cities]" 
 	] } ,
 
 { "name": "Hack Land City-States Hack", 
@@ -1643,7 +1643,7 @@
     "Can only be built <in [Capital] cities>", 
 	"[-1000]% Strength <when not at war>", 
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
-	"Can spend Gold to annex or puppet a City-State that has been your ally for [1] turns.", 
+	"Can spend Gold to annex or puppet a City-State that has been your Ally for [1] turns.", 
 	"City-State territory always counts as friendly territory", 
 	"[1000]% resources gifted by City-States", 
 	"[-1000]% City-State Influence degradation", 
@@ -1887,7 +1887,7 @@
 		"uniques": [
 			"Cost increases by [10] per owned city",
 			"Destroyed when the city is captured",
-			"New [Military] units start with [9999] Experience [in this city]"		]
+			"New [Military] units start with [9999] XP [in this city]"		]
 	},
 	{
 		"name": "Increased city defense",
