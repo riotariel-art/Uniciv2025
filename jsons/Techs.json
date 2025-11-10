@@ -862,7 +862,7 @@ xsa tech inhibitor
 				"name": "6 Modern Era Tech Inhibit",
 				"row": 11,
 				"prerequisites": [
-                    "Plastic",
+                    "Plastics",
                     "Electronics",
                     "Ballistics",
                     "Combustion"
