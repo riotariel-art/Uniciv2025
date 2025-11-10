@@ -1,4 +1,15 @@
-[
+[//xsa//unciv godmod
+	{
+		"name": "Angel",
+		"unitType": "Civilian",
+		"uniques": [
+			"Gain a free [Divine Gate] [in capital] <by consuming this unit>",
+			"Unbuildable",
+			"Uncapturable",
+			"Reveals the entire map"
+		],
+		"movement": 2
+	},
 	{
 		"name": "Phasers",
 		"unitType": "Ranged",
