@@ -1102,7 +1102,8 @@
 		"maintenance": 0,
 		"requiredBuilding": "Divine Gate",
 		"uniques": [
-			"Unavailable <when number of Completed Policy branches is less than 1>",
+//xsa			"Unavailable <when number of Completed Policy branches is less than 1>",
+            "[+100]% Great Person generation per [1] social policies adopted",
 			"Only available <in cities with a [Divine Gate]>",
 			"[+100]% Great Person generation [in all cities]",
 			"Moves to new capital when capital changes"]
