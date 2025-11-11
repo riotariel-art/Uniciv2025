@@ -282,8 +282,8 @@
 		"name": "Great Artist",
 		"unitType": "Civilian",
 		"uniques": [
-			"Can start an [8]-turn golden age", 
-			"Can construct [Landmark]", 
+            "Empire enters a [10]-turn Golden Age <by consuming this unit>",
+			"Can instantly construct a [Landmark] improvement <by consuming this unit>", 
 			"Great Person - [Culture]", 
 			"Can move immediately once bought", 
 			"Unbuildable", 
@@ -297,7 +297,7 @@
 		"unitType": "Civilian",
 		"uniques": [
 			"Can hurry technology research", 
-			"Can construct [Academy]", 
+			"Can instantly construct a [Academy] improvement <by consuming this unit>", 
 			"Great Person - [Science]", 
 			"Can move immediately once bought", 
 			"Unbuildable", 
@@ -311,7 +311,7 @@
 		"unitType": "Civilian",
 		"uniques": [
 			"Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence",
-			"Can construct [Customs house]", 
+			"Can instantly construct a [Customs house] improvement <by consuming this unit>", 
 			"Great Person - [Gold]", 
 			"Can move immediately once bought", 
 			"Unbuildable", 
@@ -325,7 +325,7 @@
 		"unitType": "Civilian",
 		"uniques": [
 			"Can speed up construction of a building", 
-			"Can construct [Manufactory]", 
+			"Can instantly construct a [Manufactory] improvement <by consuming this unit>", 
 			"Great Person - [Production]", 
 			"Can move immediately once bought", 
 			"Unbuildable", 
@@ -338,8 +338,8 @@
 		"name": "Great Prophet",
 		"unitType": "Civilian",
 		"uniques": [
-			"Can construct [Holy site]", 
-			"Can [Spread Religion] [4] times",
+			"Can instantly construct a [Holy site] improvement <by consuming this unit>", 
+            "Can Spread Religion <[4] times> <by consuming this unit>",
 			"Removes other religions when spreading religion", 
 			"May found a religion", 
 			"May enhance a religion", 
@@ -360,11 +360,11 @@
 		"name": "Great General",
 		"unitType": "Civilian",
 		"uniques": [
-			"Can start an [8]-turn golden age", 
+            "Empire enters a [10]-turn Golden Age <by consuming this unit>",
 			"[+35]% Strength bonus for [Military] units within [2] tiles", 
 			"All adjacent units heal [+15] HP when healing", 
 			"[+15] HP when healing",
-			"Can construct [Citadel]",
+			"Can instantly construct a [Citadel] improvement <by consuming this unit>",
 			"Great Person - [War]", 
 			"Can move immediately once bought", 
 			"Unbuildable", 
@@ -380,11 +380,11 @@
 		"replaces": "Great General",
 		"strength": 20,
 		"uniques": [
-			"Can start an [8]-turn golden age",
+            "Empire enters a [10]-turn Golden Age <by consuming this unit>",
 			"[+35]% Strength bonus for [Military] units within [2] tiles", 
 			"All adjacent units heal [+30] HP when healing", 
 			"[+15] HP when healing", 
-			"Can construct [Citadel]", 
+			"Can instantly construct a [Citadel] improvement <by consuming this unit>", 
 			"Great Person - [War]", 
 			"Can move immediately once bought",
 			"Unbuildable", 
@@ -437,7 +437,6 @@
 		"movement": 512,
 		"cost": 1,
 		"hurryCostModifier": 0,
-		"requiredResource": "Admission",
 		"uniques": [
 			"Never appears as a Barbarian unit",
 			"Only available <in cities with a [MiniCake Sandboxer]>",
@@ -452,7 +451,6 @@
 		"movement": 512,
 		"cost": 1,
 		"hurryCostModifier": 0,
-		"requiredResource": "Admission",
 		"uniques": [
 			"Never appears as a Barbarian unit",
 			"Only available <in cities with a [MiniCake Sandboxer]>",
@@ -479,7 +477,6 @@
 		"movement": 512,
 		"cost": 1,
 		"hurryCostModifier": 0,
-		"requiredResource": "Admission",
 		"uniques": [
 			"Never appears as a Barbarian unit",
 			"Only available <in cities with a [MiniCake Sandboxer]>",
