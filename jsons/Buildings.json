@@ -774,8 +774,8 @@
 			"[+100]% spy effectiveness [in all cities]",
 			"Gain a free [Counter-Intelligence Liaison Office] [in this city]",
 			"Reveals the entire map",
-			"Destroyed when the city is captured",
-			"Only available <for [Human player] Civilizations><hidden from users>"
+			"Destroyed when the city is captured <hidden from users>",
+			"Only available <for [Human player] Civilizations> <hidden from users><hidden from users>"
 		]
 	},
 	{
@@ -786,8 +786,8 @@
 			"Can be purchased with [Gold] [in all cities]",
 			"Gain an extra spy",
 			"[-100]% enemy spy effectiveness [in this city]",
-			"Destroyed when the city is captured",
-			"Only available <for [Human player] Civilizations><hidden from users>"]
+			"Destroyed when the city is captured <hidden from users>",
+			"Only available <for [Human player] Civilizations> <hidden from users><hidden from users>"]
 	},
 
 
@@ -825,7 +825,7 @@
 			"Nullifies [Faith] [in all cities]",
 			"[+1 Culture] per every [1] [Faith]",
 			"Cannot be purchased <after founding a Pantheon>",
-			"Can only be built <in [Capital] cities> <hidden from users>"
+			"Can only be built <in [Capital] cities> <hidden from users> <hidden from users>"
 			]
 	},
 
@@ -850,9 +850,9 @@
 		"uniques": [
 		  
 //			"Unbuildable <for [AI player]>",
-			"Limited to [1] per Civilization",
+			"Limited to [1] per Civilization <hidden from users>",
 //			"Unbuildable <for [AI player] Civilizations>",
-			"Only available <for [Human player] Civilizations><hidden from users>",
+			"Only available <for [Human player] Civilizations> <hidden from users><hidden from users>",
 //			"Unavailable <in cities with a [Glory of the Aesir]> <hidden from users>",
 //			"Unavailable <in cities with a [Twilight of the Gods]> <hidden from users>",
 //			"Unavailable <in cities with a [True Asgarheim]> <hidden from users>",
@@ -873,7 +873,7 @@
 			"[1] free [Worker] units appear",
 			"Free [Worker] appears <for [Human player] Civilizations>",
 			
-			"Destroyed when the city is captured"
+			"Destroyed when the city is captured <hidden from users>"
 			],
 	},
     
@@ -895,7 +895,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
-				"Destroyed when the city is captured"
+				"Destroyed when the city is captured <hidden from users>"
 			],
 	},	
 	{
@@ -905,7 +905,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
-				"Destroyed when the city is captured"
+				"Destroyed when the city is captured <hidden from users>"
 			],
 	},
 	{
@@ -915,7 +915,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
-				"Destroyed when the city is captured"
+				"Destroyed when the city is captured <hidden from users>"
 			],
 	},
 	
@@ -926,7 +926,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
-				"Destroyed when the city is captured"
+				"Destroyed when the city is captured <hidden from users>"
 			],
 	},
 	
@@ -937,7 +937,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
-				"Destroyed when the city is captured"
+				"Destroyed when the city is captured <hidden from users>"
 			],
 	},
 	
@@ -948,7 +948,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
-				"Destroyed when the city is captured"
+				"Destroyed when the city is captured <hidden from users>"
 			],
 	},
 	
@@ -959,7 +959,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
-				"Destroyed when the city is captured"
+				"Destroyed when the city is captured <hidden from users>"
 			],
 	},
 	
@@ -970,7 +970,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
-				"Destroyed when the city is captured"
+				"Destroyed when the city is captured <hidden from users>"
 			],
 	},
 	
@@ -1012,7 +1012,7 @@
 		"percentStatBonus": {"production": 100},
 		"uniques": [
 			"Cost increases by [10] per owned city"
-			"Destroyed when the city is captured"
+			"Destroyed when the city is captured <hidden from users>"
 			],
 		"requiredTech": "Construction"
 	},
@@ -1025,7 +1025,7 @@
 		"percentStatBonus": {"gold": 100},
 		"uniques": [
 			"Cost increases by [10] per owned city"
-			"Destroyed when the city is captured"
+			"Destroyed when the city is captured <hidden from users>"
 			],
 		"requiredTech": "Currency"
 	},
@@ -1038,7 +1038,7 @@
 		"percentStatBonus": {"culture": 100},
 		"uniques": [
 			"Cost increases by [10] per owned city"
-			"Destroyed when the city is captured"
+			"Destroyed when the city is captured <hidden from users>"
 			],
 		"requiredTech": "Philosophy"
 	},
@@ -1051,7 +1051,7 @@
 		"percentStatBonus": {"faith": 100},
 		"uniques": [
 			"Cost increases by [10] per owned city"
-			"Destroyed when the city is captured"
+			"Destroyed when the city is captured <hidden from users>"
 			],
 		"requiredTech": "Calendar"
 	},
@@ -1064,7 +1064,7 @@
 		"percentStatBonus": {"science": 100},
 		"uniques": [
 			"Cost increases by [10] per owned city"
-			"Destroyed when the city is captured"
+			"Destroyed when the city is captured <hidden from users>"
 			],
 		"requiredTech": "Education"
 	},
@@ -1077,7 +1077,7 @@
 		"percentStatBonus": {"food": 100},
 		"uniques": [
 			"Cost increases by [10] per owned city"
-			"Destroyed when the city is captured"
+			"Destroyed when the city is captured <hidden from users>"
 			],
 		"requiredTech": "Agriculture"
 	},
@@ -1139,12 +1139,12 @@
  	  "[0] Movement point cost to embark",
 	  "All newly-trained [All] units [in all cities] receive the [Sons of the Aesir] promotion",
  	  "Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
- 	  "Can only be built <in [Capital] cities>",
+ 	  "Can only be built <in [Capital] cities> <hidden from users>",
  	  "Can spend Gold to annex or puppet a City-State that has been your Ally for [1] turns",
 	  "Cities are razed [10] times as fast",
  	  "City-State territory always counts as friendly territory",
 	  "Connects trade routes over water",
- 	  "Destroyed when the city is captured",
+ 	  "Destroyed when the city is captured <hidden from users>",
  	  "Enables [All] units to enter ocean tiles",
  	  "Enables Defensive Pacts",
  	  "Enables Open Borders agreements",
@@ -1169,7 +1169,7 @@
  	  "Removes extra unhappiness from annexed cities",
  	  "Resting point for Influence with City-States is increased by [1000]",
  	  "Roads connect tiles across rivers",
-		"Only available <if [MiniCake] is constructed>",
+		"Only available <if [MiniCake True] is constructed>",
  	  "Unbuildable <hidden from users>",
  	  "When defeating a [All] unit, earn [100] Gold and recruit it" ]
   },
@@ -1197,12 +1197,12 @@
  	  "[0] Movement point cost to embark",
 	  "All newly-trained [All] units [in all cities] receive the [Sons of the Aesir] promotion",
  	  "Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
- 	  "Can only be built <in [Capital] cities>",
+ 	  "Can only be built <in [Capital] cities> <hidden from users>",
  	  "Can spend Gold to annex or puppet a City-State that has been your Ally for [0] turns",
 	  "Cities are razed [100] times as fast",
  	  "City-State territory always counts as friendly territory",
 	  "Connects trade routes over water",
- 	  "Destroyed when the city is captured",
+ 	  "Destroyed when the city is captured <hidden from users>",
  	  "Enables [All] units to enter ocean tiles",
  	  "Enables Defensive Pacts",
  	  "Enables Open Borders agreements",
@@ -1227,7 +1227,7 @@
  	  "Removes extra unhappiness from annexed cities",
  	  "Resting point for Influence with City-States is increased by [1000]",
  	  "Roads connect tiles across rivers",
-	  "Only available <if [MiniCake] is constructed>",
+	  "Only available <if [MiniCake True] is constructed>",
  	  "Unbuildable <hidden from users>",
  	  "When defeating a [All] unit, earn [1000] Gold and recruit it",
 	  
@@ -1268,12 +1268,12 @@
  	  "[0] Movement point cost to embark",
 	  "All newly-trained [All] units [in all cities] receive the [Sons of the Aesir] promotion",
  	  "Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
- 	  "Can only be built <in [Capital] cities>",
+ 	  "Can only be built <in [Capital] cities> <hidden from users>",
  	  "Can spend Gold to annex or puppet a City-State that has been your Ally for [0] turns",
 	  "Cities are razed [100000] times as fast",
  	  "City-State territory always counts as friendly territory",
 	  "Connects trade routes over water",
- 	  "Destroyed when the city is captured",
+ 	  "Destroyed when the city is captured <hidden from users>",
  	  "Enables [All] units to enter ocean tiles",
  	  "Enables Defensive Pacts",
  	  "Enables Open Borders agreements",
@@ -1298,7 +1298,7 @@
  	  "Removes extra unhappiness from annexed cities",
  	  "Resting point for Influence with City-States is increased by [100000]",
  	  "Roads connect tiles across rivers",
-		"Only available <if [MiniCake] is constructed>",
+		"Only available <if [MiniCake True] is constructed>",
  	  "Unbuildable <hidden from users>",
  	  "When defeating a [All] unit, earn [100000] Gold and recruit it" ]
   },
@@ -1333,8 +1333,8 @@
 	  "Provides [1000] [Uranium]",
 	  "Provides [1000] [Whales]",
 	  "Provides [1000] [Wine]",			  
-	  "Destroyed when the city is captured",
-	  "Only available <if [MiniCake] is constructed>",
+	  "Destroyed when the city is captured <hidden from users>",
+	  "Only available <if [MiniCake True] is constructed>",
  	 "Unbuildable <hidden from users>" ]
   },
   {
@@ -1345,10 +1345,10 @@
 	  "[+100000]% [Culture] [in all cities]",
 	  "[-100000]% Culture cost of adopting new Policies",
 	  "[+100000]% Golden Age length",
- 	  "Can only be built <in [Capital] cities>",
+ 	  "Can only be built <in [Capital] cities> <hidden from users>",
 
-	  "Destroyed when the city is captured",
-	  "Only available <if [MiniCake] is constructed>",
+	  "Destroyed when the city is captured <hidden from users>",
+	  "Only available <if [MiniCake True] is constructed>",
  	  "Unbuildable <hidden from users>" ]
   },
   {
@@ -1359,11 +1359,11 @@
 	"uniques": [
 	  "[+100000]% [Faith] [in all cities]",
 	  "[+100000]% Natural religion spread [in all cities]",
- 	  "Can only be built <in [Capital] cities>",
-	  "Destroyed when the city is captured",
+ 	  "Can only be built <in [Capital] cities> <hidden from users>",
+	  "Destroyed when the city is captured <hidden from users>",
 	  "May choose [10] additional belief(s) of any type when [founding] a religion",
 	  "May choose [10] additional belief(s) of any type when [enhancing] a religion",
-	  "Only available <if [MiniCake] is constructed>",
+	  "Only available <if [MiniCake True] is constructed>",
  	  "Unbuildable <hidden from users>" ]
   },
   {
@@ -1374,9 +1374,9 @@
 	"uniques": [
 	  "[+100000]% [Food] [in all cities]",
 	  "[+100000]% growth [in all cities]",
- 	  "Can only be built <in [Capital] cities>",
-	  "Destroyed when the city is captured",
-	  "Only available <if [MiniCake] is constructed>",
+ 	  "Can only be built <in [Capital] cities> <hidden from users>",
+	  "Destroyed when the city is captured <hidden from users>",
+	  "Only available <if [MiniCake True] is constructed>",
  	  "Unbuildable <hidden from users>" ]
   },
   {
@@ -1387,10 +1387,10 @@
 	"uniques": [
 	  "[+100000]% [Gold] [in all cities]",
 	  "[-100000]% maintenance costs",
- 	  "Can only be built <in [Capital] cities>",
-	  "Destroyed when the city is captured",
+ 	  "Can only be built <in [Capital] cities> <hidden from users>",
+	  "Destroyed when the city is captured <hidden from users>",
 	  "No Maintenance costs for improvements in [All] tiles",
-	  "Only available <if [MiniCake] is constructed>",
+	  "Only available <if [MiniCake True] is constructed>",
  	  "Unbuildable <hidden from users>" ]
   },
   {
@@ -1400,9 +1400,9 @@
 	"uniques": [
 	  "[+100000]% [Happiness] [in all cities]",
 	  "[-100000]% Unhappiness from [Population] [in all cities]",
- 	  "Can only be built <in [Capital] cities>",
-	  "Destroyed when the city is captured",
-	  "Only available <if [MiniCake] is constructed>",
+ 	  "Can only be built <in [Capital] cities> <hidden from users>",
+	  "Destroyed when the city is captured <hidden from users>",
+	  "Only available <if [MiniCake True] is constructed>",
  	  "Unbuildable <hidden from users>" ]
   },
   {
@@ -1413,9 +1413,9 @@
 	"uniques": [
 	  "[+100000]% [Production] [in all cities]",
 	  "[-100000]% construction time for [All] improvements",
- 	  "Can only be built <in [Capital] cities>",
-	  "Destroyed when the city is captured",
-	  "Only available <if [MiniCake] is constructed>",
+ 	  "Can only be built <in [Capital] cities> <hidden from users>",
+	  "Destroyed when the city is captured <hidden from users>",
+	  "Only available <if [MiniCake True] is constructed>",
  	  "Unbuildable <hidden from users>" ]
   },
   {
@@ -1425,9 +1425,9 @@
 	"isWonder": true,
 	"uniques": [
 	  "[+100000]% [Science] [in all cities]",
- 	  "Can only be built <in [Capital] cities>",
-	  "Destroyed when the city is captured",
-	  "Only available <if [MiniCake] is constructed>",
+ 	  "Can only be built <in [Capital] cities> <hidden from users>",
+	  "Destroyed when the city is captured <hidden from users>",
+	  "Only available <if [MiniCake True] is constructed>",
  	  "Unbuildable <hidden from users>" ]
   }
   
@@ -1456,11 +1456,11 @@
 { "name": "Hack Land Military Movement Hack", 
 	"requiredBuilding": "MiniCake Hack",
 "cost": 0, "uniques": [ 
-	"Only available <for [Human player] Civilizations>", 
-	"Limited to [1] per Civilization", 
-	"[-99999]% weight to this choice for AI decisions", 
-	"Destroyed when the city is captured", 
-    "Can only be built <in [Capital] cities>",
+	"Only available <for [Human player] Civilizations> <hidden from users>", 
+	"Limited to [1] per Civilization <hidden from users>", 
+	"[-99999]% weight to this choice for AI decisions <hidden from users>", 
+	"Destroyed when the city is captured <hidden from users>", 
+    "Can only be built <in [Capital] cities> <hidden from users>",
 	"[-1000]% Strength <when not at war>", 
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
 	"[5] Movement", 
@@ -1473,11 +1473,11 @@
 { "name": "Hack Land Military Range Hack", 
 	"requiredBuilding": "MiniCake Hack",
 "cost": 0,  "uniques": [ 
-	"Only available <for [Human player] Civilizations>", 
-	"Limited to [1] per Civilization", 
-	"[-99999]% weight to this choice for AI decisions", 
-	"Destroyed when the city is captured", 
-    "Can only be built <in [Capital] cities>",
+	"Only available <for [Human player] Civilizations> <hidden from users>", 
+	"Limited to [1] per Civilization <hidden from users>", 
+	"[-99999]% weight to this choice for AI decisions <hidden from users>", 
+	"Destroyed when the city is captured <hidden from users>", 
+    "Can only be built <in [Capital] cities> <hidden from users>",
 	"[-1000]% Strength <when not at war>", 
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
 	"[+5] Range" 
@@ -1486,11 +1486,11 @@
 { "name": "Hack Land Military Multi Attack Hack", 
 	"requiredBuilding": "MiniCake Hack",
 "cost": 0, "uniques": [ 
-	"Only available <for [Human player] Civilizations>", 
-	"Limited to [1] per Civilization", 
-	"[-99999]% weight to this choice for AI decisions", 
-	"Destroyed when the city is captured", 
-    "Can only be built <in [Capital] cities>", 
+	"Only available <for [Human player] Civilizations> <hidden from users>", 
+	"Limited to [1] per Civilization <hidden from users>", 
+	"[-99999]% weight to this choice for AI decisions <hidden from users>", 
+	"Destroyed when the city is captured <hidden from users>", 
+    "Can only be built <in [Capital] cities> <hidden from users>", 
 	"[-1000]% Strength <when not at war>", 
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
 	"[3] additional attacks per turn" ] }  ,
@@ -1498,11 +1498,11 @@
 { "name": "Hack Land Military Recruiting Hack", 
 	"requiredBuilding": "MiniCake Hack",
 "cost": 0,  "uniques": [ "
-	Only available <for [Human player] Civilizations>", 
-	"Limited to [1] per Civilization", 
-	"[-99999]% weight to this choice for AI decisions", 
-	"Destroyed when the city is captured", 
-    "Can only be built <in [Capital] cities>", 
+	Only available <for [Human player] Civilizations> <hidden from users>", 
+	"Limited to [1] per Civilization <hidden from users>", 
+	"[-99999]% weight to this choice for AI decisions <hidden from users>", 
+	"Destroyed when the city is captured <hidden from users>", 
+    "Can only be built <in [Capital] cities> <hidden from users>", 
 	"[-1000]% Strength <when not at war>", 
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
 	"When defeating a [All] unit, earn [1000] Gold and recruit it" 
@@ -1511,11 +1511,11 @@
 { "name": "Hack Land Military Defense Hack", 
 	"requiredBuilding": "MiniCake Hack",
 "cost": 0,  "uniques": [ 
-	"Only available <for [Human player] Civilizations>", 
-	"[-99999]% weight to this choice for AI decisions", 
-	"Limited to [1] per Civilization", 
-	"Destroyed when the city is captured", 
-    "Can only be built <in [Capital] cities>",
+	"Only available <for [Human player] Civilizations> <hidden from users>", 
+	"[-99999]% weight to this choice for AI decisions <hidden from users>", 
+	"Limited to [1] per Civilization <hidden from users>", 
+	"Destroyed when the city is captured <hidden from users>", 
+    "Can only be built <in [Capital] cities> <hidden from users>",
 	"[-1000]% Strength <when not at war>", 
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
 	"May attack when embarked", 
@@ -1525,11 +1525,11 @@
 { "name": "Hack Land Military Hack 2", 
 	"requiredBuilding": "MiniCake Hack",
 "cost": 0, "uniques": [ 
-	"Only available <for [Human player] Civilizations>", 
-	"Limited to [1] per Civilization", 
-	"[-99999]% weight to this choice for AI decisions", 
-	"Destroyed when the city is captured", 
-    "Can only be built <in [Capital] cities>",
+	"Only available <for [Human player] Civilizations> <hidden from users>", 
+	"Limited to [1] per Civilization <hidden from users>", 
+	"[-99999]% weight to this choice for AI decisions <hidden from users>", 
+	"Destroyed when the city is captured <hidden from users>", 
+    "Can only be built <in [Capital] cities> <hidden from users>",
 	"[-1000]% Strength <when not at war>", 
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
 	"[+1000]% Strength <vs [All] units>" 
@@ -1538,11 +1538,11 @@
 { "name": "Hack Land Military Hack 1", 
 	"requiredBuilding": "MiniCake Hack",
 "cost": 0, "uniques": [ 
-	"Only available <for [Human player] Civilizations>", 
-	"Limited to [1] per Civilization", 
-	"[-99999]% weight to this choice for AI decisions", 
-	"Destroyed when the city is captured", 
-    "Can only be built <in [Capital] cities>", 
+	"Only available <for [Human player] Civilizations> <hidden from users>", 
+	"Limited to [1] per Civilization <hidden from users>", 
+	"[-99999]% weight to this choice for AI decisions <hidden from users>", 
+	"Destroyed when the city is captured <hidden from users>", 
+    "Can only be built <in [Capital] cities> <hidden from users>", 
 	"[-1000]% Strength <when not at war>", 
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
 	"Damage is ignored when determining unit Strength<for All units>",	
@@ -1553,11 +1553,11 @@
 { "name": "Hack Land City-States Hack", 
 	"requiredBuilding": "MiniCake Hack",
 "cost": 0, "uniques": [ 
-	"Only available <for [Human player] Civilizations>", 
-	"Limited to [1] per Civilization", 
-	"[-99999]% weight to this choice for AI decisions", 
-	"Destroyed when the city is captured", 
-    "Can only be built <in [Capital] cities>", 
+	"Only available <for [Human player] Civilizations> <hidden from users>", 
+	"Limited to [1] per Civilization <hidden from users>", 
+	"[-99999]% weight to this choice for AI decisions <hidden from users>", 
+	"Destroyed when the city is captured <hidden from users>", 
+    "Can only be built <in [Capital] cities> <hidden from users>", 
 	"[-1000]% Strength <when not at war>", 
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
 	"Can spend Gold to annex or puppet a City-State that has been your Ally for [1] turns", 
@@ -1572,11 +1572,11 @@
 { "name": "Hack Land Gold Hack", 
 	"requiredBuilding": "MiniCake Hack",
 "cost": 0, "uniques": [ 
-	"Only available <for [Human player] Civilizations>", 
-	"Limited to [1] per Civilization", 
-	"[-99999]% weight to this choice for AI decisions", 
-	"Destroyed when the city is captured", 
-    "Can only be built <in [Capital] cities>", 
+	"Only available <for [Human player] Civilizations> <hidden from users>", 
+	"Limited to [1] per Civilization <hidden from users>", 
+	"[-99999]% weight to this choice for AI decisions <hidden from users>", 
+	"Destroyed when the city is captured <hidden from users>", 
+    "Can only be built <in [Capital] cities> <hidden from users>", 
 	"[-1000]% Strength <when not at war>", 
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
 	"[+1 Gold] per [1] population [in all cities]", 
@@ -1595,11 +1595,11 @@
 { "name": "Hack Land Culture Hack", 
 	"requiredBuilding": "MiniCake Hack",
 "cost": 0, "uniques": [ 
-	"Only available <for [Human player] Civilizations>", 
-	"Limited to [1] per Civilization", 
-	"[-99999]% weight to this choice for AI decisions", 
-	"Destroyed when the city is captured", 
-    "Can only be built <in [Capital] cities>",
+	"Only available <for [Human player] Civilizations> <hidden from users>", 
+	"Limited to [1] per Civilization <hidden from users>", 
+	"[-99999]% weight to this choice for AI decisions <hidden from users>", 
+	"Destroyed when the city is captured <hidden from users>", 
+    "Can only be built <in [Capital] cities> <hidden from users>",
 	"[-1000]% Strength <when not at war>", 
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
 	"[+1 Culture] per [1] population [in all cities]", 
@@ -1610,11 +1610,11 @@
 { "name": "Hack Land Faith Hack", 
 	"requiredBuilding": "MiniCake Hack",
 "cost": 0, "uniques": [ 
-	"Only available <for [Human player] Civilizations>", 
-	"Limited to [1] per Civilization", 
-	"[-99999]% weight to this choice for AI decisions", 
-	"Destroyed when the city is captured", 
-    "Can only be built <in [Capital] cities>", 
+	"Only available <for [Human player] Civilizations> <hidden from users>", 
+	"Limited to [1] per Civilization <hidden from users>", 
+	"[-99999]% weight to this choice for AI decisions <hidden from users>", 
+	"Destroyed when the city is captured <hidden from users>", 
+    "Can only be built <in [Capital] cities> <hidden from users>", 
 	"[-1000]% Strength <when not at war>", 
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
 	"[+1 Faith] per [1] population [in all cities]", 
@@ -1627,11 +1627,11 @@
 { "name": "Hack Land Happiness Hack", 
 	"requiredBuilding": "MiniCake Hack",
 "cost": 1, "uniques": [ 
-	"Only available <for [Human player] Civilizations>", 
-	"Limited to [1] per Civilization", 
-	"[-99999]% weight to this choice for AI decisions", 
-	"Destroyed when the city is captured", 
-    "Can only be built <in [Capital] cities>",
+	"Only available <for [Human player] Civilizations> <hidden from users>", 
+	"Limited to [1] per Civilization <hidden from users>", 
+	"[-99999]% weight to this choice for AI decisions <hidden from users>", 
+	"Destroyed when the city is captured <hidden from users>", 
+    "Can only be built <in [Capital] cities> <hidden from users>",
 	"[-1000]% Strength <when not at war>", 
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
 	"[+1 Happiness] per [1] population [in all cities]", 
@@ -1643,11 +1643,11 @@
 { "name": "Hack Land Food Hack", 
 	"requiredBuilding": "MiniCake Hack",
 "cost": 0, "uniques": [ 
-	"Only available <for [Human player] Civilizations>", 
-	"Limited to [1] per Civilization", 
-	"[-99999]% weight to this choice for AI decisions", 
-	"Destroyed when the city is captured", 
-    "Can only be built <in [Capital] cities>",
+	"Only available <for [Human player] Civilizations> <hidden from users>", 
+	"Limited to [1] per Civilization <hidden from users>", 
+	"[-99999]% weight to this choice for AI decisions <hidden from users>", 
+	"Destroyed when the city is captured <hidden from users>", 
+    "Can only be built <in [Capital] cities> <hidden from users>",
 	"[-1000]% Strength <when not at war>",
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
 	"[+1 Food] per [1] population [in all cities]", 
@@ -1658,11 +1658,11 @@
 { "name": "Hack Land Science Hack", 
 	"requiredBuilding": "MiniCake Hack",
 "cost": 0, "uniques": [ 
-	"Only available <for [Human player] Civilizations>", 
-	"Limited to [1] per Civilization", 
-	"[-99999]% weight to this choice for AI decisions", 
-	"Destroyed when the city is captured", 
-    "Can only be built <in [Capital] cities>",
+	"Only available <for [Human player] Civilizations> <hidden from users>", 
+	"Limited to [1] per Civilization <hidden from users>", 
+	"[-99999]% weight to this choice for AI decisions <hidden from users>", 
+	"Destroyed when the city is captured <hidden from users>", 
+    "Can only be built <in [Capital] cities> <hidden from users>",
 	"[-1000]% Strength <when not at war>", 
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
 	"[+1 Science] per [1] population [in all cities]", 
@@ -1671,11 +1671,11 @@
 { "name": "Hack Land Production Hack", 
 	"requiredBuilding": "MiniCake Hack",
 "cost": 0, "uniques": [ 
-	"Only available <for [Human player] Civilizations>", 
-	"Limited to [1] per Civilization", 
-	"[-99999]% weight to this choice for AI decisions", 
-	"Destroyed when the city is captured", 
- 	"Can only be built <in [Capital] cities>",
+	"Only available <for [Human player] Civilizations> <hidden from users>", 
+	"Limited to [1] per Civilization <hidden from users>", 
+	"[-99999]% weight to this choice for AI decisions <hidden from users>", 
+	"Destroyed when the city is captured <hidden from users>", 
+ 	"Can only be built <in [Capital] cities> <hidden from users>",
 	 "[-1000]% Strength <when not at war>", 
 	 "[+1000]% Strength <when not at war> <vs [Barbarians]>", 
 	 "[+1 Production] per [1] population [in all cities]", 
@@ -1687,7 +1687,7 @@
 { "name": "Hax For Everyone!", 
 "isNationalWonder": true, "cost": 1, 
 "uniques": [ 
-	"Destroyed when the city is captured", 
+	"Destroyed when the city is captured <hidden from users>", 
 	"Can only be built [in capital]", 
 	"\"Borrows\" city names from other civilizations in the game", 
 	"[+1 Gold, +1 Production, +1 Science, +1 Food, +1 Culture, +1 Faith, +1 Happiness] per [1] population [in all cities]", 
@@ -1738,7 +1738,7 @@
 		"maintenance": 1,
 		"uniques": [
 			"Cost increases by [10] per owned city",
-			"Destroyed when the city is captured"
+			"Destroyed when the city is captured <hidden from users>"
 			]
 	},
 	{
@@ -1751,7 +1751,7 @@
 		"maintenance": 1,
 		"uniques": [
 			"Cost increases by [10] per owned city",
-			"Destroyed when the city is captured"
+			"Destroyed when the city is captured <hidden from users>"
 			]
 	},
 	{
@@ -1764,7 +1764,7 @@
 		"maintenance": 1,
 		"uniques": [
 			"Cost increases by [10] per owned city",
-			"Destroyed when the city is captured",
+			"Destroyed when the city is captured <hidden from users>",
 			"Hidden when religion is disabled"
 			]
 	},
@@ -1778,7 +1778,7 @@
 		"maintenance": 1,
 		"uniques": [
 			"Cost increases by [10] per owned city",
-			"Destroyed when the city is captured"
+			"Destroyed when the city is captured <hidden from users>"
 			]
 	},
 	{
@@ -1791,7 +1791,7 @@
 		"maintenance": 1,
 		"uniques": [
 			"Cost increases by [10] per owned city",
-			"Destroyed when the city is captured"
+			"Destroyed when the city is captured <hidden from users>"
 			]
 	},
 	{
@@ -1803,7 +1803,7 @@
 		"maintenance": 1,
 		"uniques": [
 			"Cost increases by [10] per owned city",
-			"Destroyed when the city is captured",
+			"Destroyed when the city is captured <hidden from users>",
 			"New [Military] units start with [9999] XP [in this city]"		]
 	},
 	{
@@ -1817,7 +1817,7 @@
 		"maintenance": 1,
 		"uniques": [
 			"Cost increases by [10] per owned city",
-			"Destroyed when the city is captured"
+			"Destroyed when the city is captured <hidden from users>"
 			]
 	},
 	{
@@ -1830,7 +1830,7 @@
 		"maintenance": 1,
 		"uniques": [
 			"Cost increases by [10] per owned city",
-			"Destroyed when the city is captured"
+			"Destroyed when the city is captured <hidden from users>"
 			]
 	},
 	{
@@ -1843,7 +1843,7 @@
 		"maintenance": 1,
 		"uniques": [
 			"Cost increases by [10] per owned city",
-			"Destroyed when the city is captured"
+			"Destroyed when the city is captured <hidden from users>"
 			]
 	},
 	{
@@ -1856,7 +1856,7 @@
 		"maintenance": 1,
 		"uniques": [
 			"Cost increases by [10] per owned city",
-			"Destroyed when the city is captured"
+			"Destroyed when the city is captured <hidden from users>"
 			]
 	},
 	{
@@ -1869,7 +1869,7 @@
 		"maintenance": 1,
 		"uniques": [
 			"Cost increases by [10] per owned city",
-			"Destroyed when the city is captured"
+			"Destroyed when the city is captured <hidden from users>"
 			]
 	},
 	{
@@ -1882,7 +1882,7 @@
 		"maintenance": 1,
 		"uniques": [
 			"Cost increases by [10] per owned city",
-			"Destroyed when the city is captured"
+			"Destroyed when the city is captured <hidden from users>"
 			]
 	}
 
@@ -1914,7 +1914,7 @@
 		"requiredTech":"Civil Service",
 		"uniques":[
 				"Only available <in cities without a [Focus on Wonder Construction]>",
-				"Destroyed when the city is captured",
+				"Destroyed when the city is captured <hidden from users>",
 				"Can be purchased for [100] [Culture] [in all cities]",
 		"Unsellable <for [20] turns>",
 	
@@ -1928,7 +1928,7 @@
 		"requiredTech":"Civil Service",
 		"uniques":[
 			"Only available <in cities without a [Focus on Military Production]>",
-			"Destroyed when the city is captured",
+			"Destroyed when the city is captured <hidden from users>",
 			"Can be purchased for [100] [Culture] [in all cities]",
 			"Unsellable <for [20] turns>",
 		
@@ -1945,7 +1945,7 @@
 	},
 		"uniques":[
 			"Only available <in cities without a [Focus on Growing our Wealth]>",
-			"Destroyed when the city is captured",
+			"Destroyed when the city is captured <hidden from users>",
 			"Can be purchased for [100] [Culture] [in all cities]",
 			"Unsellable <for [20] turns>",
 
@@ -1960,7 +1960,7 @@
 		"requiredTech":"Civil Service",
 		"uniques":[
 			"Only available <in cities without a [Focus on Feeding the People]>",
-			"Destroyed when the city is captured",
+			"Destroyed when the city is captured <hidden from users>",
 			"Can be purchased for [100] [Culture] [in all cities]",
 			"Unsellable <for [20] turns>",
 
@@ -1978,7 +1978,7 @@
 		"requiredTech":"Civil Service",
 		"uniques":[
 			"Only available <in cities without a [Focus on Social Exchange]>",
-			"Destroyed when the city is captured",
+			"Destroyed when the city is captured <hidden from users>",
 			"Can be purchased for [100] [Culture] [in all cities]",
 			"Unsellable <for [20] turns>",
 
@@ -1998,7 +1998,7 @@
 		},
 		"uniques":[
 			"Only available <in cities without a [Focus on National Production]>",
-			"Destroyed when the city is captured",
+			"Destroyed when the city is captured <hidden from users>",
 			"Can be purchased for [100] [Culture] [in all cities]",
 			"Unsellable <for [20] turns>",
 
@@ -2110,7 +2110,7 @@
 	{
 		"name": "Activate Challenges",
 		"cost": 0,
-		"uniques": ["Never destroyed when the city is captured","Unsellable","Only available <before discovering [AI Treats]>",
+		"uniques": ["Never Destroyed when the city is captured <hidden from users>","Unsellable","Only available <before discovering [AI Treats]>",
 				"Only available <before adopting [Challenges]>",
 				"Only available <before adopting [Tradition]>",
 				"Only available <before adopting [Liberty]>",
@@ -2654,7 +2654,7 @@
 			"Only available <in cities with a [Divine Gate]>",
 			"[+100]% City Strength from defensive buildings",
 			"[+100]% Strength for cities",
-			"Destroyed when the city is captured"]
+			"Destroyed when the city is captured <hidden from users>"]
 	},
 	{
 		"name": "Agency HQ",
@@ -2711,8 +2711,8 @@
 		"uniques": [ 
 			"Comment [All of these buildings are Unbuildable for AIs so no need to worry + destroyed if city is captured]",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Only available <for [Human player] Civilizations> <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+			"Only available <for [Human player] Civilizations> <hidden from users> <hidden from users>",
+			"Destroyed when the city is captured <hidden from users> <hidden from users>",
 			"Unbuildable <hidden from users>"]
 	},
 	{
@@ -2724,7 +2724,7 @@
 		"uniques": [
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 			"Can only be built <in [in capital] cities> <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+			"Destroyed when the city is captured <hidden from users> <hidden from users>",
 			"Only available <in cities without a [cheated]> <hidden from users>",
 			"Only available <in cities without a [Password]> <hidden from users>",
 			"Only available <in cities without a [Real]> <hidden from users>",
@@ -2746,7 +2746,7 @@
 			"Remove [xyzplan] [in this city] <hidden from users>",
 			"Remove [iS] [in this city] <hidden from users>",
 			"Remove [Real] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>"]
+			"Destroyed when the city is captured <hidden from users> <hidden from users>"]
 	},
 	{
 		"name": "Oknice911",
@@ -2758,7 +2758,7 @@
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 			"Can only be built <in [in capital] cities> <hidden from users>",
 			"Automatically built in all cities where it is buildable <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>"]
+			"Destroyed when the city is captured <hidden from users> <hidden from users>"]
 	},
 	{
 		"name": "Password",
@@ -2771,7 +2771,7 @@
 			"Can only be built <in [in capital] cities> <hidden from users>",
 			"Only available <in cities with a [CheatActivator]> <hidden from users>",
 			"Remove [CheatActivator] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>"]
+			"Destroyed when the city is captured <hidden from users> <hidden from users>"]
 	},
 	{
 		"name": "xyzplan",
@@ -2785,7 +2785,7 @@
 			"Only available <in cities with a [Password]> <hidden from users>",
 			"Only available <in cities without a [fake]> <hidden from users>",
 			"Only available <in cities without a [100 Real]> <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>"]
+			"Destroyed when the city is captured <hidden from users> <hidden from users>"]
 	},
 	{
 		"name": "iS",
@@ -2798,7 +2798,7 @@
 			"Can only be built <in [in capital] cities> <hidden from users>",
 			"Only available <in cities with a [xyzplan]> <hidden from users>",
 			"Only available <in cities without a [fake]> <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>"]
+			"Destroyed when the city is captured <hidden from users> <hidden from users>"]
 	},
 	{
 		"name": "100 Real",
@@ -2814,7 +2814,7 @@
 			"Remove [iS] [in this city] <hidden from users>",
 			"Remove [Password] [in this city] <hidden from users>",
 		"Remove [100 Real] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>"]
+			"Destroyed when the city is captured <hidden from users> <hidden from users>"]
 	},
 	{
 		"name": "Real",
@@ -2830,7 +2830,7 @@
 			"Remove [xyzplan] [in this city] <hidden from users>",
 			"Remove [iS] [in this city] <hidden from users>",
 			"Remove [Password] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>"]
+			"Destroyed when the city is captured <hidden from users> <hidden from users>"]
 	},
 	{
 		"name": "fake",
@@ -2846,7 +2846,7 @@
 			"Remove [iS] [in this city] <hidden from users>",
 			"Remove [Password] [in this city] <hidden from users>",
 			"Remove [fake] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>"]
+			"Destroyed when the city is captured <hidden from users> <hidden from users>"]
 	},
 	{
 	 "name": "cheated",
@@ -2860,7 +2860,7 @@
 		"Only available <in cities without a [CheatActivator]> <hidden from users>",
 		"Only available <in cities with a [CheatActivated]> <hidden from users>",
 		"Remove [CheatActivated] [in this city] <hidden from users>",
-		"Destroyed when the city is captured <hidden from users>"]
+		"Destroyed when the city is captured <hidden from users> <hidden from users>"]
 	},
 	{
 		"name": "Starter Pack",
@@ -2872,9 +2872,9 @@
 			"Comment [You Gain 2 units in total]",
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+			"Destroyed when the city is captured <hidden from users> <hidden from users>",
 			"Remove [Starter Pack] [in this city] <hidden from users> ",
-			"Limited to [1] per Civilization <hidden from users>",
+			"Limited to [1] per Civilization <hidden from users> <hidden from users>",
 			"[+1] free [Normal Worker] units appear <hidden from users>",
 			"[+1] free [Normal Settler] units appear <hidden from users>"]
 	},
@@ -2888,12 +2888,12 @@
 			"Comment [+5 every stats except faith in your cities]",
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+			"Destroyed when the city is captured <hidden from users> <hidden from users>",
 				"Instantly provides [1] [+stats1] <hidden from users>", 
 			"Instantly consumes [1] [-stats1] <hidden from users>",
 			"Unavailable <when above [9] [+stats1]> <hidden from users>",
 			"Remove [+5 stats] [in this city] <hidden from users> ",
-			"Limited to [1] per Civilization <hidden from users>",
+			"Limited to [1] per Civilization <hidden from users> <hidden from users>",
 			"[+5 Gold, +5 Production, +5 Food, +5 Culture, +5 Science] [in all cities] <for [999999] turns> <hidden from users>"]
 	},
 	{
@@ -2906,12 +2906,12 @@
 			"Comment [-5 every stats except faith in your cities]",
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+			"Destroyed when the city is captured <hidden from users> <hidden from users>",
 				"Instantly provides [1] [-stats1] <hidden from users>", 
 			"Instantly consumes [1] [+stats1] <hidden from users>",
 			"Unavailable <when above [-1] [-stats1]> <hidden from users>",
 			"Remove [-5 stats] [in this city] <hidden from users> ",
-			"Limited to [1] per Civilization <hidden from users>",
+			"Limited to [1] per Civilization <hidden from users> <hidden from users>",
 			"[-5 Gold, -5 Production, -5 Food, -5 Culture, -5 Science] [in all cities] <for [999999] turns> <hidden from users>"]
 	},
 	{
@@ -2924,9 +2924,9 @@
 			"Comment [+5 faith in your cities]",
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
-			"Only available <for [Human player] Civilizations> <hidden from users>",
-			"Limited to [1] per Civilization <hidden from users>",
+			"Destroyed when the city is captured <hidden from users> <hidden from users>",
+			"Only available <for [Human player] Civilizations> <hidden from users> <hidden from users>",
+			"Limited to [1] per Civilization <hidden from users> <hidden from users>",
 			"[+5 Faith] [in all cities] <hidden from users>",
 				"Only available <when religion is enabled>"]
 	},
@@ -2941,12 +2941,12 @@
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Comment [Not Buildable for AIs + Destroyed if this city is captured]", 
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+			"Destroyed when the city is captured <hidden from users> <hidden from users>",
 			"Instantly provides [1] [-Unhappiness] <hidden from users>", 
 			"Instantly consumes [1] [+Unhappiness] <hidden from users> ",
 			"Unavailable <when above [9] [-Unhappiness]> <hidden from users>",
 			"Remove [0 to 100% happiness] [in this city] <hidden from users> ",
-			"Limited to [1] per Civilization <hidden from users> ",
+			"Limited to [1] per Civilization <hidden from users> <hidden from users> ",
 			"[-10]% Unhappiness from [Population] [in all cities] <for [999999] turns> <hidden from users> ",
 			"[-10]% unhappiness from the number of cities <for [999999] turns> <hidden from users> "]
 	},
@@ -2964,9 +2964,9 @@
 			"Instantly provides [1] [+Unhappiness] <hidden from users>", 
 			"Instantly consumes [1] [-Unhappiness] <hidden from users>",
 			"Unavailable <when above [-1] [+Unhappiness]> <hidden from users>",
-			"Destroyed when the city is captured <hidden from users> ",
+			"Destroyed when the city is captured <hidden from users> <hidden from users> ",
 			"Remove [100 to 0% happiness] [in this city] <hidden from users> ",
-			"Limited to [1] per Civilization <hidden from users> ",
+			"Limited to [1] per Civilization <hidden from users> <hidden from users> ",
 			"[+10]% Unhappiness from [Population] [in all cities] <for [999999] turns> <hidden from users> ",
 			"[+10]% unhappiness from the number of cities <for [999999] turns> <hidden from users> "]
 	},
@@ -2979,12 +2979,12 @@
 		"uniques": [ 
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 			"Only available <in cities with a [cheated]> <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+			"Destroyed when the city is captured <hidden from users> <hidden from users>",
 			"Instantly provides [1] [+Food Carry] <hidden from users>", 
 			"Instantly consumes [1] [-Food Carry] <hidden from users>",
 			"Unavailable <when above [9] [+Food Carry]> <hidden from users>",
 			"Remove [0 to 100% Food Carry] [in this city] <hidden from users> ",
-			"Limited to [1] per Civilization <hidden from users>",
+			"Limited to [1] per Civilization <hidden from users> <hidden from users>",
 			"[+10]% Food is carried over after population increases [in all cities] <for [999999] turns> <hidden from users>"]
 	},
 	{
@@ -2996,12 +2996,12 @@
 		"uniques": [ 
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 			"Only available <in cities with a [cheated]> <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+			"Destroyed when the city is captured <hidden from users> <hidden from users>",
 			"Instantly provides [1] [-Food Carry] <hidden from users>", 
 			"Instantly consumes [1] [+Food Carry] <hidden from users>",
 			"Unavailable <when above [-1] [-Food Carry]> <hidden from users>",
 			"Remove [100 to 0% Food Carry] [in this city] <hidden from users> ",
-			"Limited to [1] per Civilization <hidden from users>",
+			"Limited to [1] per Civilization <hidden from users> <hidden from users>",
 			"[-10]% Food is carried over after population increases [in all cities] <for [999999] turns> <hidden from users>"]
 	},
 	{
@@ -3013,12 +3013,12 @@
 		"uniques": [ 
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+			"Destroyed when the city is captured <hidden from users> <hidden from users>",
 			"Instantly provides [1] [-Culture Cost Border] <hidden from users>", 
 			"Instantly consumes [1] [+Culture Cost Border] <hidden from users>",
 			"Unavailable <when above [9] [-Culture Cost Border]> <hidden from users>",
 			"Remove [0 to -100% Natural Border Cost] [in this city] <hidden from users> ",
-			"Limited to [1] per Civilization <hidden from users>",
+			"Limited to [1] per Civilization <hidden from users> <hidden from users>",
 			"[-10]% Culture cost of natural border growth [in all cities] <for [999999] turns> <hidden from users>"]
 	},
 	{
@@ -3030,12 +3030,12 @@
 		"uniques": [ 
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+			"Destroyed when the city is captured <hidden from users> <hidden from users>",
 			"Instantly provides [1] [+Culture Cost Border] <hidden from users>", 
 			"Instantly consumes [1] [-Culture Cost Border] <hidden from users>",
 			"Unavailable <when above [-1] [+Culture Cost Border]> <hidden from users>",
 			"Remove [-100 to 0% Natural Border Cost] [in this city] <hidden from users> ",
-			"Limited to [1] per Civilization <hidden from users>",
+			"Limited to [1] per Civilization <hidden from users> <hidden from users>",
 			"[+10]% Culture cost of natural border growth [in all cities] <for [999999] turns> <hidden from users>"]
 	},
 	{
@@ -3047,8 +3047,8 @@
 		"uniques": [ 
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users> ",
-			"Destroyed when the city is captured <hidden from users>",
-			"Limited to [1] per Civilization <hidden from users>",
+			"Destroyed when the city is captured <hidden from users> <hidden from users>",
+			"Limited to [1] per Civilization <hidden from users> <hidden from users>",
 			"[+9999999]% Golden Age length <hidden from users>"]
 	},
 	{
@@ -3060,8 +3060,8 @@
 		"uniques": [ 
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Limited to [1] per Civilization <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+			"Limited to [1] per Civilization <hidden from users> <hidden from users>",
+			"Destroyed when the city is captured <hidden from users> <hidden from users>",
 			"[Military] units gain the [Slavery-888] promotion <if [Slavery-888] is constructed>" ]
 	},
 	{
@@ -3073,8 +3073,8 @@
 		"uniques": [ 
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Limited to [1] per Civilization <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+			"Limited to [1] per Civilization <hidden from users> <hidden from users>",
+			"Destroyed when the city is captured <hidden from users> <hidden from users>",
 			"[Military] units gain the [Pillage-cheat] promotion <if [Pillage-cheat] is constructed>" ]
 	},
 	{
@@ -3086,8 +3086,8 @@
 		"uniques": [ 
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Limited to [1] per Civilization <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+			"Limited to [1] per Civilization <hidden from users> <hidden from users>",
+			"Destroyed when the city is captured <hidden from users> <hidden from users>",
 			"[Military] units gain the [Omnipotence] promotion <every [1] turns> <if [Immortal Units] is constructed>" ]
 	},
 	{
@@ -3099,8 +3099,8 @@
 		"uniques": [ 
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Limited to [1] per Civilization <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+			"Limited to [1] per Civilization <hidden from users> <hidden from users>",
+			"Destroyed when the city is captured <hidden from users> <hidden from users>",
 			"[Military] units gain the [More Invulnerability] promotion <every [1] turns> <if [Invulnerable Units] is constructed>" ]
 	},
 	{
@@ -3112,8 +3112,8 @@
 		"uniques":[ 
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
-			"Limited to [1] per Civilization <hidden from users>",
+			"Destroyed when the city is captured <hidden from users> <hidden from users>",
+			"Limited to [1] per Civilization <hidden from users> <hidden from users>",
 		"[Military] units gain the [Knowledgeable] promotion <every [1] turns> <if [Knowledgeable Units] is constructed>"]
 	},
 	{
@@ -3125,8 +3125,8 @@
 		"uniques": [ 
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Limited to [1] per Civilization <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+			"Limited to [1] per Civilization <hidden from users> <hidden from users>",
+			"Destroyed when the city is captured <hidden from users> <hidden from users>",
 			"[+99999999]% Strength for cities <when defending> <hidden from users>" ]
 	},
 	{
@@ -3141,8 +3141,8 @@
 			"Instantly provides [1] [-Maintenance] <hidden from users>", 
 			"Instantly consumes [1] [+Maintenance] <hidden from users>",
 			"Unavailable <when above [9] [-Maintenance]> <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
-			"Limited to [1] per Civilization <hidden from users>",
+			"Destroyed when the city is captured <hidden from users> <hidden from users>",
+			"Limited to [1] per Civilization <hidden from users> <hidden from users>",
 			"Remove [0 to -100% Maintenance] [in this city] <hidden from users> ",
 			"[-10]% maintenance cost for [All] buildings [in all cities] <for [999999] turns> <hidden from users>",
 			"[-10]% maintenance costs <for [All] units> <for [999999] turns> <hidden from users>",
@@ -3158,11 +3158,11 @@
 		"uniques": [ 
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+			"Destroyed when the city is captured <hidden from users> <hidden from users>",
 			"Instantly provides [1] [+Maintenance] <hidden from users>", 
 			"Instantly consumes [1] [-Maintenance] <hidden from users>",
 			"Unavailable <when above [-1] [+Maintenance]> <hidden from users>",
-			"Limited to [1] per Civilization <hidden from users>",
+			"Limited to [1] per Civilization <hidden from users> <hidden from users>",
 			"Remove [-100 to 0% Maintenance] [in this city] <hidden from users> ",
 			"[+10]% maintenance cost for [All] buildings [in all cities] <for [999999] turns> <hidden from users>",
 			"[+10]% maintenance costs <for [All] units> <for [999999] turns> <hidden from users>",
@@ -3178,8 +3178,8 @@
 		"uniques": [ 
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
-			"Limited to [1] per Civilization <hidden from users>",
+			"Destroyed when the city is captured <hidden from users> <hidden from users>",
+			"Limited to [1] per Civilization <hidden from users> <hidden from users>",
 			"May buy [All] buildings for [0] [Culture] [in all cities] <hidden from users>",
 			"May buy [All] buildings for [0] [Gold] [in all cities] <hidden from users>",
 			"May buy [All] buildings for [0] [Faith] [in all cities] <hidden from users>",
@@ -3194,8 +3194,8 @@
 		"uniques": [ 
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",			
-			"Limited to [1] per Civilization <hidden from users>",
+			"Destroyed when the city is captured <hidden from users> <hidden from users>",			
+			"Limited to [1] per Civilization <hidden from users> <hidden from users>",
 			"May buy [Military] units for [0] [Culture] [in all cities] <hidden from users>",
 			"May buy [Military] units for [0] [Gold] [in all cities] <hidden from users>",
 			"May buy [Military] units for [0] [Faith] [in all cities] <hidden from users>",
@@ -3210,8 +3210,8 @@
 		"uniques": [ 
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
-			"Limited to [1] per Civilization <hidden from users>",
+			"Destroyed when the city is captured <hidden from users> <hidden from users>",
+			"Limited to [1] per Civilization <hidden from users> <hidden from users>",
 			"[100] Unit Supply per city <hidden from users>"]
 	},
 	{
@@ -3223,8 +3223,8 @@
 		"uniques": [ 
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
-			"Limited to [1] per Civilization <hidden from users>",
+			"Destroyed when the city is captured <hidden from users> <hidden from users>",
+			"Limited to [1] per Civilization <hidden from users> <hidden from users>",
 			"[5] Unit Supply per [1] population [in all cities] <hidden from users>"]
 	},
 	{
@@ -3236,8 +3236,8 @@
 		"uniques": [ 
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
-			"Limited to [1] per Civilization <hidden from users>",
+			"Destroyed when the city is captured <hidden from users> <hidden from users>",
+			"Limited to [1] per Civilization <hidden from users> <hidden from users>",
 			"[-99]% construction time for [All] improvements <hidden from users>"]
 	},
 	{
@@ -3253,8 +3253,8 @@
 			"Instantly consumes [1] [-Unit Production] <hidden from users>",
 			"Unavailable <when above [99] [+Unit Production]> <hidden from users>",
 			"Remove [0 to 10000% Unit Production] [in this city] <hidden from users> ",
-			"Destroyed when the city is captured <hidden from users>",
-			"Limited to [1] per Civilization <hidden from users>",
+			"Destroyed when the city is captured <hidden from users> <hidden from users>",
+			"Limited to [1] per Civilization <hidden from users> <hidden from users>",
 			"[+100]% Production when constructing [All] units [in all cities] <for [999999] turns> <hidden from users>"]
 	},
 	{
@@ -3270,8 +3270,8 @@
 			"Instantly consumes [1] [+Unit Production] <hidden from users>",
 			"Unavailable <when above [-1] [-Unit Production]> <hidden from users>",
 			"Remove [10000 to 0% Unit Production] [in this city] <hidden from users> ",
-			"Destroyed when the city is captured <hidden from users>",
-			"Limited to [1] per Civilization <hidden from users>",
+			"Destroyed when the city is captured <hidden from users> <hidden from users>",
+			"Limited to [1] per Civilization <hidden from users> <hidden from users>",
 			"[-100]% Production when constructing [All] units [in all cities] <for [999999] turns> <hidden from users>"]
 	},
 	{
@@ -3283,12 +3283,12 @@
 		"uniques": [ 
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+			"Destroyed when the city is captured <hidden from users> <hidden from users>",
 			"Instantly provides [1] [+Buildings Production] <hidden from users>", 
 			"Instantly consumes [1] [-Buildings Production] <hidden from users>",
 			"Unavailable <when above [99] [+Buildings Production]> <hidden from users>",
 			"Remove [0 to 10000% Buildings Production] [in this city] <hidden from users> ",
-			"Limited to [1] per Civilization <hidden from users>",
+			"Limited to [1] per Civilization <hidden from users> <hidden from users>",
 			"[+100]% Production when constructing [All] buildings [in all cities] <for [999999] turns> <hidden from users>"]
 	},
 	{
@@ -3300,12 +3300,12 @@
 		"uniques": [ 
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+			"Destroyed when the city is captured <hidden from users> <hidden from users>",
 			"Instantly provides [1] [-Buildings Production] <hidden from users>", 
 			"Instantly consumes [1] [+Buildings Production] <hidden from users>",
 			"Unavailable <when above [-1] [-Buildings Production]> <hidden from users>",
 			"Remove [10000 to 0% Buildings Production] [in this city] <hidden from users> ",
-			"Limited to [1] per Civilization <hidden from users>",
+			"Limited to [1] per Civilization <hidden from users> <hidden from users>",
 			"[-100]% Production when constructing [All] buildings [in all cities] <for [999999] turns> <hidden from users>"]
 	},
 	{
@@ -3317,12 +3317,12 @@
 		"uniques": [ 
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+			"Destroyed when the city is captured <hidden from users> <hidden from users>",
 			"Instantly provides [1] [+Wonders Production] <hidden from users>", 
 			"Instantly consumes [1] [-Wonders Production] <hidden from users>",
 			"Unavailable <when above [99] [+Wonders Production]> <hidden from users>",
 			"Remove [0 to 10000% Wonders Production] [in this city] <hidden from users> ",
-			"Limited to [1] per Civilization <hidden from users>",
+			"Limited to [1] per Civilization <hidden from users> <hidden from users>",
 			"[+100]% Production when constructing [All] wonders [in all cities] <for [999999] turns> <hidden from users>"]
 	},
 	{
@@ -3334,12 +3334,12 @@
 		"uniques": [ 
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
+			"Destroyed when the city is captured <hidden from users> <hidden from users>",
 			"Instantly provides [1] [-Wonders Production] <hidden from users>", 
 			"Instantly consumes [1] [+Wonders Production] <hidden from users>",
 			"Unavailable <when above [-1] [-Wonders Production]> <hidden from users>",
 			"Remove [10000 to 0% Wonders Production] [in this city] <hidden from users> ",
-			"Limited to [1] per Civilization <hidden from users>",
+			"Limited to [1] per Civilization <hidden from users> <hidden from users>",
 			"[-100]% Production when constructing [All] wonders [in all cities] <for [999999] turns> <hidden from users>"]
 	},
 	{
@@ -3351,8 +3351,8 @@
 		"uniques": [ 
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
-			"Limited to [1] per Civilization <hidden from users>",
+			"Destroyed when the city is captured <hidden from users> <hidden from users>",
+			"Limited to [1] per Civilization <hidden from users> <hidden from users>",
 			"Notified of new Barbarian encampments <hidden from users>", 
 			"Earn [+150]% of killed [All] unit's [Strength] as [Gold] <hidden from users>",
 			"Earn [+150]% of the damage done to [All] units as [Gold] <hidden from users>",
@@ -3370,8 +3370,8 @@
 		"uniques": [ 
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
-			"Limited to [1] per Civilization <hidden from users>",
+			"Destroyed when the city is captured <hidden from users> <hidden from users>",
+			"Limited to [1] per Civilization <hidden from users> <hidden from users>",
 			"Earn [+100]% of killed [All] unit's [Strength] as [Faith] <hidden from users>",
 			"Earn [+100]% of the damage done to [All] units as [Faith] <hidden from users>",
 			"Only available <when religion is enabled>"]
@@ -3384,8 +3384,8 @@
 		"uniques": [ 
 			"Only available <in cities with a [cheated]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
-			"Limited to [1] per Civilization <hidden from users>"]
+			"Destroyed when the city is captured <hidden from users> <hidden from users>",
+			"Limited to [1] per Civilization <hidden from users> <hidden from users>"]
 	},
 	{	"name": "C-S cheat",
 			"requiredBuilding": "MiniCake UCheat",
@@ -3412,12 +3412,11 @@
 			"Influence of all other civilizations with all city-states degrades [999]% faster <hidden from users>",
 			"[100]% Happiness from luxury resources gifted by City-States <hidden from users>",
 			"[100]% resources gifted by City-States <hidden from users>",
-			"Destroyed when the city is captured <hidden from users>",
-			"Limited to [1] per Civilization <hidden from users>"]
+			"Destroyed when the city is captured <hidden from users> <hidden from users>",
+			"Limited to [1] per Civilization <hidden from users> <hidden from users>"]
 	}
 		
 
 
 ]//xsa//end
-
 
