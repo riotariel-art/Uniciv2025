@@ -1544,7 +1544,7 @@
     "Can only be built <in [Capital] cities>", 
 	"[-1000]% Strength <when not at war>", 
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
-	"Damage is ignored when determining unit Strength<for All units>",	
+	"No damage penalty for wounded units",	
 	"Military Units gifted from City-States start with [1000] XP", 
 	"New [All] units start with [1000] XP [in all cities]" 
 	] } ,
@@ -1680,14 +1680,14 @@
 	 "[+1 Production] per [1] population [in all cities]", 
 	 "[+1000000]% [Production] [in all cities]", 
 	 "Quantity of strategic resources produced by the empire +[200000]%", 
-	 "[-1000]% tile improvement construction time" 
+	 "[-1000]% construction time for All improvements" 
 	 ] },
 
 { "name": "Hax For Everyone!", 
 "isNationalWonder": true, "cost": 1, 
 "uniques": [ 
 	"Destroyed when the city is captured", 
-	"Can only be built [in capital]", 
+	"Can only be built <in [in capital] cities> <hidden from users>", 
 	"\"Borrows\" city names from other civilizations in the game", 
 	"[+1 Gold, +1 Production, +1 Science, +1 Food, +1 Culture, +1 Faith, +1 Happiness] per [1] population [in all cities]", 
 	"Enables conversion of city production to [Gold]", 
@@ -1764,7 +1764,7 @@
 		"uniques": [
 			"Cost increases by [10] per owned city",
 			"Destroyed when the city is captured",
-			"Hidden when religion is disabled"
+			"Only available <when religion is enabled>"
 			]
 	},
 	{
@@ -2663,7 +2663,7 @@
 		"maintenance": 0,
 		"requiredBuilding": "Divine Gate",
 		"uniques": [
-			"Hidden until [1] social policy branches have been completed",
+			"Unavailable <whennumber of Completed Policy branches is less than 1>",
 			"Only available <in cities with a [Divine Gate]>",
 			"[+100]% Great Person generation [in all cities]",
 			"Moves to new capital when capital changes"]
