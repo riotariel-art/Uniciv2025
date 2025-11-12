@@ -9,9 +9,9 @@
       "ancientRuinCountMultiplier":1,
       "cityWorkRange": 5,
       "cityStrengthPerPop": 1,
-      "baseCityBombardRange": 6,
+      "baseCityBombardRange": 5,
       "cityAirUnitCapacity": 5,
-      "minimalCityDistance": 5,
+//      "minimalCityDistance": 5,
       "minimalCityDistanceOnDifferentContinents": 4
     }
   }
