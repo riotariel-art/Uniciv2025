@@ -620,7 +620,7 @@
 		 "Founds a new city",
 		 "Can be purchased for [0] [Gold] [in this city]",
 		 "Uncapturable",
-		 		"Only available <for [Human player] Civilizations> <hidden from users>","
+		 		"Only available <for [Human player] Civilizations> <hidden from users>"
 			 ]
 	 "movement": 2
 	 "cost": 0
@@ -669,7 +669,7 @@
 		"Can instantly construct a [All] improvement",
 		"Can move immediately once bought",
 		"May create improvements on water resources",
-		"Only available <for [Human player] Civilizations> <hidden from users>","
+		"Only available <for [Human player] Civilizations> <hidden from users>"
 	  ]
   },
   {
@@ -684,7 +684,7 @@
 		"Never appears as a Barbarian unit",
 		"Can move immediately once bought",
 		"Founds a new city",
-		"Only available <for [Human player] Civilizations> <hidden from users>","
+		"Only available <for [Human player] Civilizations> <hidden from users>"
 	]
   },
   
@@ -697,7 +697,7 @@
 		  "uniques":[
   				"Turn this tile into a [Mountain Tunnel] tile <by consuming this unit> <in [Mountain] tiles> <in tiles adjacent to [Mountain] tiles> <costs [+300 Gold] stats> <after discovering [Dynamite]>",			   
   				"Can pass through impassable tiles <hidden from users>",
-		  		"Only available <for [Human player] Civilizations> <hidden from users>","
+		  		"Only available <for [Human player] Civilizations> <hidden from users>"
 		  ]
 	  },
 	  {
@@ -709,7 +709,7 @@
 					"Can build [Water] improvements on tiles",
 					"Can enter ice tiles",
 					"Can build [Remove Ice] improvements on tiles",
-					"Only available <for [Human player] Civilizations> <hidden from users>","
+					"Only available <for [Human player] Civilizations> <hidden from users>"
 				],
 			"cost": 325
 		},
@@ -722,7 +722,7 @@
 			"Empire enters a [50]-turn Golden Age <by consuming this unit>",
 //			"Can instantly construct a [Farmyard] improvement <by consuming this unit>",
 			"Great Person - [Food]", "Unbuildable", "Uncapturable",
-			"Only available <for [Human player] Civilizations> <hidden from users>","
+			"Only available <for [Human player] Civilizations> <hidden from users>"
 		],
 
 		"movement": 2
@@ -737,7 +737,7 @@
 			"Unbuildable",
 			"Uncapturable",
 			"Reveals the entire map",
-			"Only available <for [Human player] Civilizations> <hidden from users>","
+			"Only available <for [Human player] Civilizations> <hidden from users>"
 		],
 		"movement": 2
 	}
