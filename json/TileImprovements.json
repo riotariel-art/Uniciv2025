@@ -1,0 +1,52 @@
+//added  ice breaker
+[
+  {
+		"name": "Remove Ice",
+		"turnsToBuild": 10,
+		"terrainsCanBeBuiltOn": ["Ice"],
+		"techRequired": "Agriculture",
+		"uniques": ["Can be built outside your borders"]
+	},
+    
+      {
+		"name": "Customs house",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"gold": 4,
+		"uniques": [
+			"Tile provides yield without assigned population",
+			"Improves [Luxury] resource in this tile", 
+			"Great Improvement", 
+			"[+1 Gold] <after discovering [Economics]>", 
+			"Removes removable features when built", 
+			"Pillaging this improvement yields approximately [+20 Gold]"]
+	},
+	
+
+
+]
+
+
+
+
+
+//Provides a random bonus when entered", 
+//xsa//perfectly balanced
+/*
+[
+    {
+        "name": "Moai",
+        "uniques": ["Will not be displayed in Civilopedia"]
+    },
+    {
+        "name": "Terrace farm",
+        "uniques": ["Will not be displayed in Civilopedia"]
+    },
+    {
+        "name": "Polder",
+        "uniques": ["Will not be displayed in Civilopedia"]
+    }
+]
+
+
+
+*/
