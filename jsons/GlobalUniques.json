@@ -12,9 +12,10 @@ added scout xp
 		
         "[+1] Sight <for [All] units> <before turn number [5]>",
 		
+        "[+1 Gold] per every [200] [Gold] <after discovering [xsaUnlocker]>",//xsahumancheat
 
 
-			
+/*			
 	    //xsa//compound interest
         "[+1 Gold] per every [200] [Gold] <after discovering [Banking]>",
         "[+1 Gold] per every [200] [Gold] <after discovering [Economics]>",
@@ -27,7 +28,7 @@ added scout xp
         // Golden Age Bonuses
         "[+1 Gold] per every [200] [Gold] <during a Golden Age> <starting from the [Industrial era]>",
         "[+1 Gold] per every [200] [Gold] <during a Golden Age> <starting from the [Atomic era]>",
-		
+*/		
 		
 		
 	
