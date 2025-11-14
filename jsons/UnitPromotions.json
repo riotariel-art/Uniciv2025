@@ -118,9 +118,9 @@
 		"name": "Enhanced Vision",
 		"uniques": [
 		    "Only available <for [Human player] Civilizations> <hidden from users>",
-			"[+2] Sight",
+			"[+3] Sight",
 			"[+3] Movement",
-			"+1 Sight <when embarked>",
+//			"+1 Sight <when embarked>",
 			"Ignores terrain cost",
 			"Can pass through impassable tiles"
 		]
@@ -143,7 +143,8 @@
 		    "Only available <for [Human player] Civilizations> <hidden from users>",
 			"[+4] Range",
 			"[+4] Sight",
-			"[+4] Sight", "Can see over obstacles"
+			"[+4] Sight", 
+			"Can see over obstacles"
 		]
 	},
 	
@@ -155,7 +156,8 @@
 			"Damage taken from interception reduced by [90]%",
 			"[+5] Range",
 			"[+4] Sight",
-			"[+4] Sight", "Can see over obstacles",
+			"[+4] Sight", 
+			"Can see over obstacles",
 			"[Great General] is earned [80]% faster"
 		]
 	},
@@ -198,8 +200,9 @@
          "Only available <for [Human player] Civilizations> <hidden from users>",
          "All adjacent units heal [+99] HP when healing",
         "[+250]% XP gained from combat", 
+		"Can see over obstacles",
         "Ranged attacks may be performed over obstacles",
-        "Can see invisible [All] units <with [999]% chance>", 
+		"Can see invisible [All] units",//        "Can see invisible [All] units <with [999]% chance>", 
         "No damage penalty for wounded units", 
         "[+99999999]% Strength", 
         "Uncapturable",
@@ -212,10 +215,10 @@
    { 
      "name": "Pillage-cheat",
      "uniques": [
-         "Only available <for [Human player] Civilizations> <hidden from users>",
-         "[+100]% Health from pillaging tiles",
-     "No movement cost to pillage",
-     "[+100]% Yield from pillaging tiles"
+        "Only available <for [Human player] Civilizations> <hidden from users>",
+        "[+100]% Health from pillaging tiles",
+        "No movement cost to pillage",
+        "[+100]% Yield from pillaging tiles"
      ]
    },
    {
@@ -224,6 +227,7 @@
          "Only available <for [Human player] Civilizations> <hidden from users>",
          "All adjacent units heal [+100] HP when healing",
         "[+250]% XP gained from combat",
+		"Can see over obstacles",
         "Ranged attacks may be performed over obstacles", 
         "Can see invisible [All] units", 
         "No damage penalty for wounded units",
@@ -238,7 +242,6 @@
    {
       "name": "Slavery-888",
       "uniques": [
-		
 		"Only available <for [Human player] Civilizations> <hidden from users>",
 		"May capture killed [All] units <with [999]% chance>",
 		 "Uncapturable"]
