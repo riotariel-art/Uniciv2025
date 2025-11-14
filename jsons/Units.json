@@ -234,8 +234,16 @@
 	
 	
 	
-	
-	
+	{
+		"name": "Worker",
+		"unitType": "Civilian",
+		"movement": 2,
+		"uniques": [
+		    "Can build [Land] improvements on tiles", 
+		    "Automation is a primary action"],
+		"cost": 70,
+		"Limited to [3] per Civilization"
+	},
 	{
 		"name": "Settler",
 		"unitType": "Civilian",
@@ -252,6 +260,37 @@
 		],
 		"hurryCostModifier": 20
 	},
+	{
+		"name": "Scout",
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 5,
+		"cost": 25,
+		"obsoleteTech": "Scientific Theory",
+		"uniques": [
+		    "May upgrade to [Archer] through ruins-like effects", 
+		    "Never appears as a Barbarian unit"
+		    ],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit",
+		"Limited to [3] per Civilization"
+	},
+	{
+		"name": "Missionary",
+		"unitType": "Civilian",
+		"uniques": [
+            "Can Spread Religion <for [4] movement> <[2] times> <after which this unit is consumed>",
+            "May enter foreign tiles without open borders, but loses [250] religious strength each turn it ends there",
+			"Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
+			"[-1] Sight", 
+			"Unbuildable", 
+			"Religious Unit", 
+			"Only available <when religion is enabled>"],
+		"movement": 4,
+		"religiousStrength": 1000,
+		"Limited to [2] per Civilization"
+	},
+	
 /*	
 	{
 		"name": "Founder",
