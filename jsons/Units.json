@@ -555,7 +555,7 @@
 				"requiredBuilding": "MiniCake UCheat",
 		"unitType": "Class S Great People",
 		"uniques": [ 
-//		    "Only available <in cities with a [Build special units]> <hidden from users>",
+	        "Only available <in cities with a [MiniCake UCheat]> <hidden from users>",
 			"Empire enters a [50]-turn Golden Age <by consuming this unit>",
 			"[+667]% Strength bonus for [Military] units within [5] tiles",
 			"All adjacent units heal [+100] HP when healing", 
@@ -571,7 +571,7 @@
 				"requiredBuilding": "MiniCake UCheat",
 	 "unitType": "Class S Civilian",
 	 "uniques": [ 
-//			"Only available <in cities with a [Build special units]> <hidden from users>",
+	        "Only available <in cities with a [MiniCake UCheat]> <hidden from users>",
 			"Can be purchased for [0] [Gold] [in this city]",
 			"Can build [Land] improvements on tiles",
 			"Can build [Water] improvements on tiles",
@@ -588,7 +588,7 @@
 				"requiredBuilding": "MiniCake UCheat",
 	 "unitType": "Class S Civilian",
 	 "uniques": [ 
-//			"Only available <in cities with a [Build special units]> <hidden from users>",
+	         "Only available <in cities with a [MiniCake UCheat]> <hidden from users>",
 			 "Religious Unit",
     		 "May enhance a religion",
     		 "May found a religion",
@@ -609,7 +609,7 @@
 				"requiredBuilding": "MiniCake UCheat",
 	 "unitType": "Class S Trooper",
 	 "uniques": [ 
-//	     "Only available <in cities with a [Build special units]> <hidden from users>",
+	     "Only available <in cities with a [MiniCake UCheat]> <hidden from users>",
 		 "Can be purchased for [0] [Gold] [in this city]",
 		 "[Invulnerable Trooper] units gain the [More Invulnerability] promotion",
 	     "Uncapturable",
@@ -625,7 +625,7 @@
 				"requiredBuilding": "MiniCake UCheat",
 	 "unitType": "Class S Civilian",
 	 "uniques": [ 
-//		 "Only available <in cities with a [Build special units]> <hidden from users>",
+	     "Only available <in cities with a [MiniCake UCheat]> <hidden from users>",
 		 "Founds a new city",
 		 "Can be purchased for [0] [Gold] [in this city]",
 		 "Uncapturable",
@@ -671,6 +671,7 @@
 	"cost": 99,
 	"hurryCostModifier": 99,
 	"uniques": [
+		"Limited to [1] per Civilization <hidden from users>",
 		"Uncapturable",
 		"Never appears as a Barbarian unit",
 		"Can build [All] improvements at a [+100]% rate",
@@ -689,6 +690,7 @@
 	"cost": 99,
 	"hurryCostModifier": 99,
 	"uniques": [
+		"Limited to [1] per Civilization <hidden from users>",
 		"Uncapturable",
 		"Never appears as a Barbarian unit",
 		"Can move immediately once bought",
@@ -704,6 +706,7 @@
 		  "cost": 150,
 		  "requiredTech": "Dynamite",
 		  "uniques":[
+	    		"Limited to [1] per Civilization <hidden from users>",
   				"Turn this tile into a [Mountain Tunnel] tile <by consuming this unit> <in [Mountain] tiles> <in tiles adjacent to [Mountain] tiles> <costs [+300 Gold] stats> <after discovering [Dynamite]>",			   
   				"Can pass through impassable tiles <hidden from users>",
 		  		"Only available <for [Human player] Civilizations> <hidden from users>"
@@ -715,6 +718,7 @@
 			"movement": 5,
 		  	"requiredTech": "Combustion",
 				"uniques": [
+		        	"Limited to [1] per Civilization <hidden from users>",
 					"Can build [Water] improvements on tiles",
 					"Can enter ice tiles",
 					"Can build [Remove Ice] improvements on tiles",
@@ -745,6 +749,7 @@
 		"name": "Angel",
 		"unitType": "Civilian",
 		"uniques": [
+			"Limited to [1] per Civilization <hidden from users>",
 			"Gain a free [Divine Gate] [in capital] <by consuming this unit>",
 			"Unbuildable",
 			"Uncapturable",
