@@ -987,12 +987,39 @@
 	},
 	{
 		"name": "MiniCake Cities",
-		"requiredBuilding": "MiniCake Main",
+//		"requiredBuilding": "MiniCake Main",
 		"cost": 1,
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [
-				"Only available <in cities with a [MiniCake Main]> <hidden from users>",
+		    	"Provides [3] [Aluminum]",
+        		"Provides [3] [Citrus]",
+        		"Provides [3] [Coal]",
+        		"Provides [3] [Copper]",
+        		"Provides [3] [Cotton]",
+        		"Provides [3] [Crab]",
+        		"Provides [3] [Dyes]",
+        		"Provides [3] [Furs]",
+        		"Provides [3] [Gems]",
+        		"Provides [3] [Gold Ore]",
+        		"Provides [3] [Horses]",
+        		"Provides [3] [Incense]",
+        		"Provides [3] [Iron]",
+        		"Provides [3] [Jewelry]",
+        		"Provides [3] [Marble]",
+        		"Provides [3] [Oil]",
+        		"Provides [3] [Pearls]",
+        		"Provides [3] [Porcelain]",
+        		"Provides [3] [Salt]",
+        		"Provides [3] [Silk]",
+        		"Provides [3] [Silver]",
+        		"Provides [3] [Spices]",
+        		"Provides [3] [Sugar]",
+        		"Provides [3] [Truffles]",
+        		"Provides [3] [Uranium]",
+        		"Provides [3] [Whales]",
+        		"Provides [3] [Wine]",
+				"Only available <after discovering [xsaUnlocker]> <hidden from users>",
 				"Unavailable <if [Palace] is constructed><hidden from users>",
 				"Unbuildable <hidden from users>",
 				"Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
@@ -1381,7 +1408,11 @@
 		"percentStatBonus": {"production": 100},
 		"uniques": [
 			"Only available <in cities with a [MiniCake Cities]> <hidden from users>",
-			"Cost increases by [10] per owned city <hidden from users>",
+				"Unbuildable <hidden from users>",
+				"Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
+				"Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
+				"Can be purchased for [0] [Culture] [in all cities] <hidden from users>",
+//			"Cost increases by [10] per owned city <hidden from users>",
 			"Destroyed when the city is captured <hidden from users>"
 			],
 		"requiredTech": "Construction"
@@ -1395,7 +1426,10 @@
 		"percentStatBonus": {"gold": 100},
 		"uniques": [
 			"Only available <in cities with a [MiniCake Cities]> <hidden from users>",
-			"Cost increases by [10] per owned city <hidden from users>",
+				"Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
+				"Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
+				"Can be purchased for [0] [Culture] [in all cities] <hidden from users>",
+//			"Cost increases by [10] per owned city <hidden from users>",
 			"Destroyed when the city is captured <hidden from users>"
 			],
 		"requiredTech": "Currency"
@@ -1409,7 +1443,10 @@
 		"percentStatBonus": {"culture": 100},
 		"uniques": [
 			"Only available <in cities with a [MiniCake Cities]> <hidden from users>",
-			"Cost increases by [10] per owned city <hidden from users>",
+				"Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
+				"Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
+				"Can be purchased for [0] [Culture] [in all cities] <hidden from users>",
+//			"Cost increases by [10] per owned city <hidden from users>",
 			"Destroyed when the city is captured <hidden from users>"
 			],
 		"requiredTech": "Philosophy"
@@ -1423,7 +1460,10 @@
 		"percentStatBonus": {"faith": 100},
 		"uniques": [
 			"Only available <in cities with a [MiniCake Cities]> <hidden from users>",
-			"Cost increases by [10] per owned city <hidden from users>",
+				"Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
+				"Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
+				"Can be purchased for [0] [Culture] [in all cities] <hidden from users>",
+//			"Cost increases by [10] per owned city <hidden from users>",
 			"Destroyed when the city is captured <hidden from users>"
 			],
 		"requiredTech": "Calendar"
@@ -1437,7 +1477,10 @@
 		"percentStatBonus": {"science": 100},
 		"uniques": [
 			"Only available <in cities with a [MiniCake Cities]> <hidden from users>",
-			"Cost increases by [10] per owned city <hidden from users>",
+				"Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
+				"Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
+				"Can be purchased for [0] [Culture] [in all cities] <hidden from users>",
+//			"Cost increases by [10] per owned city <hidden from users>",
 			"Destroyed when the city is captured <hidden from users>"
 			],
 		"requiredTech": "Education"
@@ -1451,7 +1494,10 @@
 		"percentStatBonus": {"food": 100},
 		"uniques": [
 			"Only available <in cities with a [MiniCake Cities]> <hidden from users>",
-			"Cost increases by [10] per owned city <hidden from users>",
+				"Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
+				"Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
+				"Can be purchased for [0] [Culture] [in all cities] <hidden from users>",
+//			"Cost increases by [10] per owned city <hidden from users>",
 			"Destroyed when the city is captured <hidden from users>"
 			],
 		"requiredTech": "Agriculture"
