@@ -1332,6 +1332,7 @@
 		"percentStatBonus": {"food": 100},
 */
 		"uniques": [
+			"Only available <in cities with a [MiniCake Capital]> <hidden from users>",
 			"Cost increases by [10] per owned city <hidden from users>",
 			"Destroyed when the city is captured <hidden from users>"
 			],
@@ -1345,6 +1346,7 @@
 //		"isNationalWonder": true,
 		"percentStatBonus": {"production": 100},
 		"uniques": [
+			"Only available <in cities with a [MiniCake Cities]> <hidden from users>",
 			"Cost increases by [10] per owned city <hidden from users>",
 			"Destroyed when the city is captured <hidden from users>"
 			],
@@ -1358,6 +1360,7 @@
 //		"isNationalWonder": true,
 		"percentStatBonus": {"gold": 100},
 		"uniques": [
+			"Only available <in cities with a [MiniCake Cities]> <hidden from users>",
 			"Cost increases by [10] per owned city <hidden from users>",
 			"Destroyed when the city is captured <hidden from users>"
 			],
@@ -1371,6 +1374,7 @@
 //		"isNationalWonder": true,
 		"percentStatBonus": {"culture": 100},
 		"uniques": [
+			"Only available <in cities with a [MiniCake Cities]> <hidden from users>",
 			"Cost increases by [10] per owned city <hidden from users>",
 			"Destroyed when the city is captured <hidden from users>"
 			],
@@ -1384,6 +1388,7 @@
 //		"isNationalWonder": true,
 		"percentStatBonus": {"faith": 100},
 		"uniques": [
+			"Only available <in cities with a [MiniCake Cities]> <hidden from users>",
 			"Cost increases by [10] per owned city <hidden from users>",
 			"Destroyed when the city is captured <hidden from users>"
 			],
@@ -1397,6 +1402,7 @@
 //		"isNationalWonder": true,
 		"percentStatBonus": {"science": 100},
 		"uniques": [
+			"Only available <in cities with a [MiniCake Cities]> <hidden from users>",
 			"Cost increases by [10] per owned city <hidden from users>",
 			"Destroyed when the city is captured <hidden from users>"
 			],
@@ -1410,6 +1416,7 @@
 //		"isNationalWonder": true,
 		"percentStatBonus": {"food": 100},
 		"uniques": [
+			"Only available <in cities with a [MiniCake Cities]> <hidden from users>",
 			"Cost increases by [10] per owned city <hidden from users>",
 			"Destroyed when the city is captured <hidden from users>"
 			],
@@ -2056,6 +2063,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 1,
 		"uniques": [
+			"Only available <in cities with a [MiniCake cSandbox]> <hidden from users>",
 			"Cost increases by [10] per owned city<hidden from users>",
 			"Destroyed when the city is captured <hidden from users>"
 			]
@@ -2069,6 +2077,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 1,
 		"uniques": [
+			"Only available <in cities with a [MiniCake cSandbox]> <hidden from users>",
 			"Cost increases by [10] per owned city<hidden from users>",
 			"Destroyed when the city is captured <hidden from users>"
 			]
@@ -2082,6 +2091,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 1,
 		"uniques": [
+			"Only available <in cities with a [MiniCake cSandbox]> <hidden from users>",
 			"Cost increases by [10] per owned city<hidden from users>",
 			"Destroyed when the city is captured <hidden from users>",
 			"Only available <when religion is enabled>",
@@ -2096,6 +2106,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 1,
 		"uniques": [
+			"Only available <in cities with a [MiniCake cSandbox]> <hidden from users>",
 			"Cost increases by [10] per owned city<hidden from users>",
 			"Destroyed when the city is captured <hidden from users>"
 			]
@@ -2109,6 +2120,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 1,
 		"uniques": [
+			"Only available <in cities with a [MiniCake cSandbox]> <hidden from users>",
 			"Cost increases by [10] per owned city<hidden from users>",
 			"Destroyed when the city is captured <hidden from users>"
 			]
@@ -2121,6 +2133,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 1,
 		"uniques": [
+			"Only available <in cities with a [MiniCake cSandbox]> <hidden from users>",
 			"Cost increases by [10] per owned city<hidden from users>",
 			"Destroyed when the city is captured <hidden from users>",
 			"New [Military] units start with [9999] XP [in this city]"		]
@@ -2135,6 +2148,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 1,
 		"uniques": [
+			"Only available <in cities with a [MiniCake cSandbox]> <hidden from users>",
 			"Cost increases by [10] per owned city<hidden from users>",
 			"Destroyed when the city is captured <hidden from users>"
 			]
@@ -2148,6 +2162,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 1,
 		"uniques": [
+			"Only available <in cities with a [MiniCake cSandbox]> <hidden from users>",
 			"Cost increases by [10] per owned city<hidden from users>",
 			"Destroyed when the city is captured <hidden from users>"
 			]
@@ -2161,6 +2176,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 1,
 		"uniques": [
+			"Only available <in cities with a [MiniCake cSandbox]> <hidden from users>",
 			"Cost increases by [10] per owned city<hidden from users>",
 			"Destroyed when the city is captured <hidden from users>"
 			]
@@ -2174,6 +2190,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 1,
 		"uniques": [
+			"Only available <in cities with a [MiniCake cSandbox]> <hidden from users>",
 			"Cost increases by [10] per owned city<hidden from users>",
 			"Destroyed when the city is captured <hidden from users>"
 			]
@@ -2187,6 +2204,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 1,
 		"uniques": [
+			"Only available <in cities with a [MiniCake cSandbox]> <hidden from users>",
 			"Cost increases by [10] per owned city<hidden from users>",
 			"Destroyed when the city is captured <hidden from users>"
 			]
@@ -2200,6 +2218,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 1,
 		"uniques": [
+			"Only available <in cities with a [MiniCake cSandbox]> <hidden from users>",
 			"Cost increases by [10] per owned city<hidden from users>",
 			"Destroyed when the city is captured <hidden from users>"
 			]
@@ -2437,6 +2456,7 @@
 							"requiredBuilding": "MiniCake Challenges",
 		"cost": 0,
 		"uniques": [
+		    	"Only available <in cities with a [MiniCake Challenges]> <hidden from users>",
 		        "Destroyed when the city is captured <hidden from users>",
 		        "Unsellable",
 		        "Only available <before discovering [AI Treats]>",
@@ -2454,6 +2474,7 @@
 							"requiredBuilding": "MiniCake Challenges",
 				"cost": 1,
 				"uniques": [
+		        	"Only available <in cities with a [MiniCake Challenges]> <hidden from users>",
 		            "Destroyed when the city is captured <hidden from users>",
 				    "[41]% growth [in this city] <during We Love The King Day>",
 	    			"Nullifies [Science] [in this city] <during We Love The King Day>",
@@ -3243,6 +3264,7 @@
 		"maintenance": 0,
 		"requiredBuilding": "Divine Gate",
 		"uniques": [
+		    "Unavailable <when number of Completed Policy branchees is less than 1>",
 			"Hidden until [1] social policy branches have been completed",
 			"Only available <in cities with a [Divine Gate]>",
 			"[+100]% Great Person generation [in all cities]",
