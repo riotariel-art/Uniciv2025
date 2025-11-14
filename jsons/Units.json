@@ -240,9 +240,11 @@
 		"movement": 2,
 		"uniques": [
 		    "Can build [Land] improvements on tiles", 
-		    "Automation is a primary action"],
+		    "Automation is a primary action",
+		    "Limited to [3] per Civilization"
+		    ],
 		"cost": 70,
-		"Limited to [3] per Civilization"
+		
 	},
 	{
 		"name": "Settler",
@@ -250,6 +252,7 @@
 		"movement": 2,
 		"cost": 106,
 		"uniques": [
+		    "Limited to [5] per Civilization",
 			"Founds a new city", 
 			"Excess Food converted to Production when under construction",
 			"Can move immediately once bought", 
@@ -268,17 +271,18 @@
 		"cost": 25,
 		"obsoleteTech": "Scientific Theory",
 		"uniques": [
+		    "Limited to [3] per Civilization",
 		    "May upgrade to [Archer] through ruins-like effects", 
 		    "Never appears as a Barbarian unit"
 		    ],
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "nonmetalhit",
-		"Limited to [3] per Civilization"
 	},
 	{
 		"name": "Missionary",
 		"unitType": "Civilian",
 		"uniques": [
+		    "Limited to [3] per Civilization",
             "Can Spread Religion <for [4] movement> <[2] times> <after which this unit is consumed>",
             "May enter foreign tiles without open borders, but loses [250] religious strength each turn it ends there",
 			"Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
@@ -288,7 +292,6 @@
 			"Only available <when religion is enabled>"],
 		"movement": 4,
 		"religiousStrength": 1000,
-		"Limited to [2] per Civilization"
 	},
 	
 /*	
