@@ -1833,7 +1833,7 @@
 	"Can only be built <in [Capital] cities> <hidden from users>",
 	"[-1000]% Strength <when not at war>", 
 	"[+1000]% Strength <when not at war> <vs [Barbarians]>", 
-	"May attack when embarked", 
+//	"May attack when embarked", 
 	"[+1000]% Strength <when defending>" 
 	] } ,
 
@@ -2793,7 +2793,7 @@
 		"maintenance": 0,
 		"uniques": [
 			"Discover [1 Ancient Era Tech Inhibit]",
-			"Only available <before discovering [1 Ancient Tech Inhibit]><hidden from users>",
+			"Only available <before discovering [1 Ancient Era Tech Inhibit]><hidden from users>",
 			"Unbuildable <hidden from users>",
 			"Moves to new capital when capital changes <hidden from users>"	
 		]
@@ -2807,7 +2807,7 @@
 		"uniques": [
 			"Discover [1 Ancient Era Tech Inhibit]",
 			"Discover [2 Classical Era Tech Inhibit]",
-			"Only available <before discovering [2 Classical Tech Inhibit]><hidden from users>",
+			"Only available <before discovering [2 Classical Era Tech Inhibit]><hidden from users>",
 			"Unbuildable <hidden from users>",
 			"Moves to new capital when capital changes <hidden from users>"	
 		]
@@ -2822,7 +2822,7 @@
 			"Discover [1 Ancient Era Tech Inhibit]",
 			"Discover [2 Classical Era Tech Inhibit]",
 			"Discover [3 Medieval Era Tech Inhibit]",
-			"Only available <before discovering [3 Medieval Tech Inhibit]><hidden from users>",
+			"Only available <before discovering [3 Medieval Era Tech Inhibit]><hidden from users>",
 			"Unbuildable <hidden from users>",
 			"Moves to new capital when capital changes <hidden from users>"	
 		]
@@ -2838,7 +2838,7 @@
 			"Discover [2 Classical Era Tech Inhibit]",
 			"Discover [3 Medieval Era Tech Inhibit]",
 			"Discover [4 Renaissance Era Tech Inhibit]",
-			"Only available <before discovering [4 Renaissance Tech Inhibit]><hidden from users>",
+			"Only available <before discovering [4 Renaissance Era Tech Inhibit]><hidden from users>",
 			"Unbuildable <hidden from users>",
 			"Moves to new capital when capital changes <hidden from users>"	
 		]
@@ -2855,7 +2855,7 @@
 			"Discover [3 Medieval Era Tech Inhibit]",
 			"Discover [4 Renaissance Era Tech Inhibit]",
 			"Discover [5 Industrial Era Tech Inhibit]",
-			"Only available <before discovering [5 Industrial Tech Inhibit]><hidden from users>",
+			"Only available <before discovering [5 Industrial Era Tech Inhibit]><hidden from users>",
 			"Unbuildable <hidden from users>",
 			"Moves to new capital when capital changes <hidden from users>"	
 		]
@@ -2873,7 +2873,7 @@
 			"Discover [4 Renaissance Era Tech Inhibit]",
 			"Discover [5 Industrial Era Tech Inhibit]",
 			"Discover [6 Modern Era Tech Inhibit]",
-			"Only available <before discovering [6 Modern Tech Inhibit]><hidden from users>",
+			"Only available <before discovering [6 Modern Era Tech Inhibit]><hidden from users>",
 			"Unbuildable <hidden from users>",
 			"Moves to new capital when capital changes <hidden from users>"	
 		]
@@ -2892,7 +2892,7 @@
 			"Discover [5 Industrial Era Tech Inhibit]",
 			"Discover [6 Modern Era Tech Inhibit]",
 			"Discover [7 Atomic Era Tech Inhibit]",
-			"Only available <before discovering [7 Atomic Tech Inhibit]><hidden from users>",
+			"Only available <before discovering [7 Atomic Era Tech Inhibit]><hidden from users>",
 			"Unbuildable <hidden from users>",
 			"Moves to new capital when capital changes <hidden from users>"	
 		]
@@ -2912,7 +2912,7 @@
 			"Discover [6 Modern Era Tech Inhibit]",
 			"Discover [7 Atomic Era Tech Inhibit]",
 			"Discover [8 Information Era Tech Inhibit]",
-			"Only available <before discovering [8 Information Tech Inhibit]><hidden from users>",
+			"Only available <before discovering [8 Information Era Tech Inhibit]><hidden from users>",
 			"Unbuildable <hidden from users>",
 			"Moves to new capital when capital changes <hidden from users>"	
 		]
