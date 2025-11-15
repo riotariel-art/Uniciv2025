@@ -898,7 +898,7 @@
 //			"Unavailable <in cities with a [True Asgarheim]> <hidden from users>",
 			"Automatically built in all cities where it is buildable",
 			
-			"[+100] Unit Supply",
+//			"[+100] Unit Supply",
 			"[+1000]% XP gained from combat <for [Military] units>",
 			"[+100]% Yield from every [Terrain] <for [Human player] Civilizations>",
 			"[+100]% [strategic] resource production",
@@ -909,12 +909,13 @@
 			
 			"New [Military] units start with [1000] XP [in this city]", 
 			
-			"[1] free [Settler] units appear", 
+			"[10] free [Settler] units appear", 
 			"[1] free [Worker] units appear",
-			"Free [Worker] appears <for [Human player] Civilizations>",
+			"[10] free [Pikeman] units appear",
+//			"Free [Worker] appears <for [Human player] Civilizations>",
 			
-			"[-50]% Unhappiness from [Population] [in all cities]",
-			"[+100]% [Happiness] [in all cities]",
+			"[-20]% Unhappiness from [Population] [in all cities]",
+			"[+20]% [Happiness] [in all cities]",
 			
 
 			"Gain control over [all] tiles in a [5]-tile radius",
@@ -926,6 +927,124 @@
 	},
 	
 
+	
+	
+	
+	
+	{
+		"name": "MiniCake Capital",
+		"requiredBuilding": "MiniCake Main",
+		"cost": 1,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"uniques": [
+	    		"Only available <for [Human player] Civilizations> <hidden from users>",
+//				"Only available <in cities with a [MiniCake Main]> <hidden from users>",
+				"Can only be built <in [Capital] cities> <hidden from users>",
+//				"Unbuildable <hidden from users>",
+    			"[-50]% Unhappiness from [Population] [in this city]",
+    			"[+100]% [Happiness] [in this city]",
+                "Gain a free [MiniCake FakeResources] [in this city]",
+			    "Automatically built in all cities where it is buildable<hidden from users>",
+				"Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
+				"Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
+				"Can be purchased for [0] [Culture] [in all cities] <hidden from users>",
+				"Moves to new capital when capital changes<hidden from users>",
+				"Destroyed when the city is captured <hidden from users>"
+			],
+	},
+	
+	{
+		"name": "MiniCake Cities",
+//		"requiredBuilding": "MiniCake Main",
+		"cost": 1,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+				"uniques": [
+	    		"Only available <for [Human player] Civilizations> <hidden from users>",
+//				"Only available <after discovering [xsaUnlocker]> <hidden from users>",
+//				"Unavailable <if [Palace] is constructed><hidden from users>",
+//                "Only available [in this city] <if [Palace] is not constructed>",
+				"Unavailable <in cities with a [Palace]><hidden from users>",
+			    "Automatically built in all cities where it is buildable<hidden from users>",
+//				"Unbuildable <hidden from users>",
+    			"[-50]% Unhappiness from [Population] [in this city]",
+    			"[+100]% [Happiness] [in this city]",
+                "Gain a free [MiniCake FakeResources] [in this city]",
+				"Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
+				"Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
+				"Can be purchased for [0] [Culture] [in all cities] <hidden from users>",
+				"Destroyed when the city is captured <hidden from users>"
+			],
+	},
+	{
+		"name": "MiniCake FakeResources",
+//		"requiredBuilding": "MiniCake Main",
+		"cost": 1,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
+		"uniques": [
+	        	"Provides [5] [Cattle]",
+        		"Provides [5] [Sheep]",
+        		"Provides [5] [Deer]",
+        		"Provides [5] [Bananas]",
+        		"Provides [5] [Wheat]",
+        		"Provides [5] [Stone]",
+        		"Provides [5] [Fish]",
+
+        		"Provides [5] [Horses]",
+        		"Provides [5] [Iron]",
+        		"Provides [5] [Coal]",
+        		"Provides [5] [Oil]",
+		    	"Provides [5] [Aluminum]",
+        		"Provides [5] [Uranium]",
+
+        		"Provides [5] [Furs]",
+        		"Provides [5] [Cotton]",
+        		"Provides [5] [Dyes]",
+        		"Provides [5] [Gems]",
+        		"Provides [5] [Gold Ore]",
+        		"Provides [5] [Silver]",
+        		"Provides [5] [Incense]",
+        		"Provides [5] [Ivory]",
+        		"Provides [5] [Silk]",
+        		"Provides [5] [Spices]",
+        		"Provides [5] [Wine]",
+        		"Provides [5] [Sugar]",
+        		"Provides [5] [Marble]",
+        		"Provides [5] [Whales]",
+        		"Provides [5] [Pearls]",
+        		"Provides [5] [Citrus]",
+        		"Provides [5] [Copper]",
+        		"Provides [5] [Crab]",
+        		"Provides [5] [Salt]",
+        		"Provides [5] [Truffles]",
+
+        		"Provides [5] [Jewelry]",
+        		"Provides [5] [Porcelain]",		
+		    	"Only available <for [Human player] Civilizations> <hidden from users>",
+//				"Unavailable <in cities with a [Palace]><hidden from users>",
+//			    "Automatically built in all cities where it is buildable<hidden from users>",
+				"Unavailable <hidden from users>",
+//				"Unbuildable <hidden from users>",
+				"Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
+				"Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
+				"Can be purchased for [0] [Culture] [in all cities] <hidden from users>",
+				"Destroyed when the city is captured <hidden from users>"
+			],
+	},
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 
 	
 	
@@ -968,70 +1087,6 @@
 				"Destroyed when the city is captured <hidden from users>"
 			],
 	},
-	{
-		"name": "MiniCake Capital",
-		"requiredBuilding": "MiniCake Main",
-		"cost": 1,
-		"hurryCostModifier": 1,
-		"maintenance": 0,
-		"uniques": [
-				"Only available <in cities with a [MiniCake Main]> <hidden from users>",
-				"Can only be built <in [Capital] cities> <hidden from users>",
-				"Unbuildable <hidden from users>",
-				"Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
-				"Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
-				"Can be purchased for [0] [Culture] [in all cities] <hidden from users>",
-				"Moves to new capital when capital changes<hidden from users>",
-				"Destroyed when the city is captured <hidden from users>"
-			],
-	},
-	{
-		"name": "MiniCake Cities",
-//		"requiredBuilding": "MiniCake Main",
-		"cost": 1,
-		"hurryCostModifier": 1,
-		"maintenance": 0,
-		"uniques": [
-		    	"Provides [5] [Aluminum]",
-        		"Provides [5] [Citrus]",
-        		"Provides [5] [Coal]",
-        		"Provides [5] [Copper]",
-        		"Provides [5] [Cotton]",
-        		"Provides [5] [Crab]",
-        		"Provides [5] [Dyes]",
-        		"Provides [5] [Furs]",
-        		"Provides [5] [Gems]",
-        		"Provides [5] [Gold Ore]",
-        		"Provides [5] [Horses]",
-        		"Provides [5] [Incense]",
-        		"Provides [5] [Iron]",
-        		"Provides [5] [Jewelry]",
-        		"Provides [5] [Marble]",
-        		"Provides [5] [Oil]",
-        		"Provides [5] [Pearls]",
-        		"Provides [5] [Porcelain]",
-        		"Provides [5] [Salt]",
-        		"Provides [5] [Silk]",
-        		"Provides [5] [Silver]",
-        		"Provides [5] [Spices]",
-        		"Provides [5] [Sugar]",
-        		"Provides [5] [Truffles]",
-        		"Provides [5] [Uranium]",
-        		"Provides [5] [Whales]",
-        		"Provides [5] [Wine]",
-//				"Only available <after discovering [xsaUnlocker]> <hidden from users>",
-//				"Unavailable <if [Palace] is constructed><hidden from users>",
-//                "Only available [in this city] <if [Palace] is not constructed>",
-				"Unavailable <in cities with a [Palace]><hidden from users>",
-			    "Automatically built in all cities where it is buildable<hidden from users>",
-				"Unbuildable <hidden from users>",
-				"Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
-				"Can be purchased for [0] [Faith] [in all cities] <hidden from users>",
-				"Can be purchased for [0] [Culture] [in all cities] <hidden from users>",
-				"Destroyed when the city is captured <hidden from users>"
-			],
-	},
-
 	{
 		"name": "MiniCake Hack",
 		"requiredBuilding": "MiniCake Main",
@@ -2624,6 +2679,7 @@
 				"Only available <before adopting [Honor]>",
 				"Only available <before turn number [5]>",
 				"Only available <in cities with a [Palace]>",
+	    		"Discover [Human Treats]",
 		 		"Free Social Policy"
 		 	]
 	},
@@ -3493,8 +3549,10 @@
 		"maintenance": 0,
 		"requiredBuilding": "Divine Gate",
 		"uniques": [
-			"Unavailable <when number of Completed Policy branchees is less than 1>",
-			"Hidden until [1] social policy branches have been completed",
+
+			"Unavailable <when number of [Completed Policy branches] is less than [1]>", 
+//			"Unavailable <when number of Completed Policy branchees is less than 1>",
+//			"Hidden until [1] social policy branches have been completed",
 			"Only available <in cities with a [MiniCake Godmode]>",
 			"[+100]% Great Person generation [in all cities]",
 		"Moves to new capital when capital changes<hidden from users>",
