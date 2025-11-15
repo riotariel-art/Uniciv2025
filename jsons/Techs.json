@@ -46,6 +46,14 @@ xsa tech inhibitor
 				"uniques": [
 					"[-999999]% weight to this choice for AI decisions",
 					"Only available <before discovering [Agriculture]>"]
+			},
+			{//xsa//more challenges
+				"name": "Human Treats",
+				"row": 10,
+				"quote": "'Cheat tech",
+				"uniques": [
+					"[-999999]% weight to this choice for AI decisions",
+					"Only available <before discovering [Agriculture]>"]
 			}
 		]
 	},
